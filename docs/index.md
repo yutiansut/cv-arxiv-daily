@@ -5,7 +5,6 @@ layout: default
 ## Updated on 2025.03.07
 > Usage instructions: [here](./docs/README.md#usage)
 
-
 ## quant
 
 | Publish Date | Title | Authors | PDF | Code |

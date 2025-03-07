@@ -4,12 +4,10 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-
     <li><a href=#quant>quant</a></li>
     <li><a href=#低延迟交易>低延迟交易</a></li>
   </ol>
 </details>
-
 
 ## quant
 
