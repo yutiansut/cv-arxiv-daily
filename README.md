@@ -1,4 +1,4 @@
-## Updated on 2025.03.11
+## Updated on 2025.03.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-10**|**Force Aware Branch Manipulation To Assist Agricultural Tasks**|Madhav Rijal et.al.|[2503.07497](http://arxiv.org/abs/2503.07497)|null|
+|**2025-03-10**|**Securing External Deeper-than-black-box GPAI Evaluations**|Alejandro Tlaie et.al.|[2503.07496](http://arxiv.org/abs/2503.07496)|null|
+|**2025-03-10**|**Finite deformations induce friction hysteresis in normal wavy contacts**|M. Ceglie et.al.|[2503.07495](http://arxiv.org/abs/2503.07495)|null|
+|**2025-03-10**|**V2Flow: Unifying Visual Tokenization and Large Language Model Vocabularies for Autoregressive Image Generation**|Guiwei Zhang et.al.|[2503.07493](http://arxiv.org/abs/2503.07493)|null|
+|**2025-03-10**|**Blind-Wayfarer: A Minimalist, Probing-Driven Framework for Resilient Navigation in Perception-Degraded Environments**|Yanran Xu et.al.|[2503.07492](http://arxiv.org/abs/2503.07492)|null|
+|**2025-03-10**|**NeAS: 3D Reconstruction from X-ray Images using Neural Attenuation Surface**|Chengrui Zhu et.al.|[2503.07491](http://arxiv.org/abs/2503.07491)|null|
+|**2025-03-10**|**First generation 4H-SiC LGAD production and its performance evaluation**|Radek Novotný et.al.|[2503.07490](http://arxiv.org/abs/2503.07490)|null|
+|**2025-03-10**|**LLaVA-RadZ: Can Multimodal Large Language Models Effectively Tackle Zero-shot Radiology Recognition?**|Bangyan Li et.al.|[2503.07487](http://arxiv.org/abs/2503.07487)|null|
+|**2025-03-10**|**Real-Time Monitoring of Multimode Squeezing**|Mahmoud Kalash et.al.|[2503.07486](http://arxiv.org/abs/2503.07486)|null|
+|**2025-03-10**|**Chameleon: Fast-slow Neuro-symbolic Lane Topology Extraction**|Zongzheng Zhang et.al.|[2503.07485](http://arxiv.org/abs/2503.07485)|null|
 |**2025-03-07**|**Fast and memory efficient strong simulation of noisy adaptive linear optical circuits**|Timothée Goubault de Brugière et.al.|[2503.05699](http://arxiv.org/abs/2503.05699)|null|
 |**2025-03-07**|**Quantum State Designs from Minimally Random Quantum Circuits**|Jonathon Riddell et.al.|[2503.05698](http://arxiv.org/abs/2503.05698)|null|
 |**2025-03-07**|**How pairing mechanism dictates topology in valley-polarized superconductors with Berry curvature**|Julian May-Mann et.al.|[2503.05697](http://arxiv.org/abs/2503.05697)|null|
@@ -34,12 +44,15 @@
 |**2025-03-06**|**Floxels: Fast Unsupervised Voxel Based Scene Flow Estimation**|David T. Hoffmann et.al.|[2503.04718](http://arxiv.org/abs/2503.04718)|null|
 |**2025-03-06**|**MIGHTEE: exploring the relationship between spectral index, redshift and radio luminosity**|Siddhant Pinjarkar et.al.|[2503.04717](http://arxiv.org/abs/2503.04717)|null|
 
-<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250312>back to top</a>)</p>
 
 ## 低延迟交易
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-09**|**Phase Dependent Quantum Optical Coherence Tomography**|Mayte Y. Li-Gomez et.al.|[2503.06772](http://arxiv.org/abs/2503.06772)|null|
+|**2025-03-08**|**Attention on the Wires (AttWire): A Foundation Model for Detecting Devices and Catheters in X-ray Fluoroscopic Images**|YingLiang Ma et.al.|[2503.06190](http://arxiv.org/abs/2503.06190)|null|
+|**2025-03-07**|**A Real-time Multimodal Transformer Neural Network-powered Wildfire Forecasting System**|Qijun Chen et.al.|[2503.05971](http://arxiv.org/abs/2503.05971)|null|
 |**2025-03-06**|**Music-Driven Legged Robots: Synchronized Walking to Rhythmic Beats**|Taixian Hou et.al.|[2503.04063](http://arxiv.org/abs/2503.04063)|null|
 |**2025-03-05**|**Car-STAGE: Automated framework for large-scale high-dimensional simulated time-series data generation based on user-defined criteria**|Asma A. Almutairi et.al.|[2503.03100](http://arxiv.org/abs/2503.03100)|null|
 |**2025-03-04**|**Impact of Temporal Delay on Radar-Inertial Odometry**|Vlaho-Josip Štironja et.al.|[2503.02509](http://arxiv.org/abs/2503.02509)|null|
@@ -51,7 +64,7 @@
 |**2025-02-27**|**Wildcat: Educational RISC-V Microprocessors**|Martin Schoeberl et.al.|[2502.20197](http://arxiv.org/abs/2502.20197)|**[link](https://github.com/schoeberl/wildcat)**|
 |**2025-02-27**|**FPGA-Accelerated SpeckleNN with SNL for Real-time X-ray Single-Particle Imaging**|Abhilasha Dave et.al.|[2502.19734](http://arxiv.org/abs/2502.19734)|null|
 
-<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250312>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
