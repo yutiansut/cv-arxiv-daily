@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2025.03.13
+## Updated on 2025.03.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## quant
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-12**|**Odd-parity altermagnetism through sublattice currents: From Haldane-Hubbard model to general bipartite lattices**|Yu-Ping Lin et.al.|[2503.09602](http://arxiv.org/abs/2503.09602)|null|
+|**2025-03-12**|**RewardSDS: Aligning Score Distillation via Reward-Weighted Sampling**|Itay Chachy et.al.|[2503.09601](http://arxiv.org/abs/2503.09601)|null|
+|**2025-03-12**|**MoC: Mixtures of Text Chunking Learners for Retrieval-Augmented Generation System**|Jihao Zhao et.al.|[2503.09600](http://arxiv.org/abs/2503.09600)|null|
+|**2025-03-12**|**Hints of Primordial Magnetic Fields at Recombination and Implications for the Hubble Tension**|Karsten Jedamzik et.al.|[2503.09599](http://arxiv.org/abs/2503.09599)|null|
+|**2025-03-12**|**How to Protect Yourself from 5G Radiation? Investigating LLM Responses to Implicit Misinformation**|Ruohao Guo et.al.|[2503.09598](http://arxiv.org/abs/2503.09598)|null|
+|**2025-03-12**|**Universal Properties of Critical Mixed States from Measurement and Feedback**|Zhehao Zhang et.al.|[2503.09597](http://arxiv.org/abs/2503.09597)|null|
+|**2025-03-12**|**PISA Experiments: Exploring Physics Post-Training for Video Diffusion Models by Watching Stuff Drop**|Chenyu Li et.al.|[2503.09595](http://arxiv.org/abs/2503.09595)|null|
+|**2025-03-12**|**SimLingo: Vision-Only Closed-Loop Autonomous Driving with Language-Action Alignment**|Katrin Renz et.al.|[2503.09594](http://arxiv.org/abs/2503.09594)|null|
+|**2025-03-12**|**A Monte Carlo approach for finding optimally controlled quantum gates with differential geometry**|Adonai Hilário da Silva et.al.|[2503.09593](http://arxiv.org/abs/2503.09593)|null|
+|**2025-03-12**|**Parsing the Language of Expression: Enhancing Symbolic Regression with Domain-Aware Symbolic Priors**|Sikai Huang et.al.|[2503.09592](http://arxiv.org/abs/2503.09592)|null|
 |**2025-03-11**|**QuoTA: Query-oriented Token Assignment via CoT Query Decouple for Long Video Comprehension**|Yongdong Luo et.al.|[2503.08689](http://arxiv.org/abs/2503.08689)|null|
 |**2025-03-11**|**Randomness, Not Representation: The Unreliability of Evaluating Cultural Alignment in LLMs**|Ariba Khan et.al.|[2503.08688](http://arxiv.org/abs/2503.08688)|null|
 |**2025-03-11**|**JWST Spectroscopic View of a Rapidly Growing Dust-obscured Quasar at $z \sim 4$ : Effect of Dust Extinction Correction on Black Hole Mass and Eddington Ratio Estimation**|Dohyeong Kim et.al.|[2503.08687](http://arxiv.org/abs/2503.08687)|null|
@@ -54,9 +64,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-11**|**The CONDOR Observatory: A Gamma-Ray Observatory with a 100 GeV Threshold at 5300 Meters Above Sea Level**|Miguel Arratia et.al.|[2503.08850](http://arxiv.org/abs/2503.08850)|null|
 |**2025-03-09**|**Phase Dependent Quantum Optical Coherence Tomography**|Mayte Y. Li-Gomez et.al.|[2503.06772](http://arxiv.org/abs/2503.06772)|null|
 |**2025-03-08**|**Attention on the Wires (AttWire): A Foundation Model for Detecting Devices and Catheters in X-ray Fluoroscopic Images**|YingLiang Ma et.al.|[2503.06190](http://arxiv.org/abs/2503.06190)|null|
-|**2025-03-07**|**A Real-time Multimodal Transformer Neural Network-powered Wildfire Forecasting System**|Qijun Chen et.al.|[2503.05971](http://arxiv.org/abs/2503.05971)|null|
+|**2025-03-12**|**A Real-time Multimodal Transformer Neural Network-powered Wildfire Forecasting System**|Qijun Chen et.al.|[2503.05971](http://arxiv.org/abs/2503.05971)|null|
 |**2025-03-06**|**Music-Driven Legged Robots: Synchronized Walking to Rhythmic Beats**|Taixian Hou et.al.|[2503.04063](http://arxiv.org/abs/2503.04063)|null|
 |**2025-03-05**|**Car-STAGE: Automated framework for large-scale high-dimensional simulated time-series data generation based on user-defined criteria**|Asma A. Almutairi et.al.|[2503.03100](http://arxiv.org/abs/2503.03100)|null|
 |**2025-03-04**|**Impact of Temporal Delay on Radar-Inertial Odometry**|Vlaho-Josip Štironja et.al.|[2503.02509](http://arxiv.org/abs/2503.02509)|null|
