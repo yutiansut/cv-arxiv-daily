@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2025.03.19
+## Updated on 2025.03.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## quant
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-18**|**MusicInfuser: Making Video Diffusion Listen and Dance**|Susung Hong et.al.|[2503.14505](http://arxiv.org/abs/2503.14505)|null|
+|**2025-03-18**|**Aligning Multimodal LLM with Human Preference: A Survey**|Tao Yu et.al.|[2503.14504](http://arxiv.org/abs/2503.14504)|null|
+|**2025-03-18**|**The Power of Context: How Multimodality Improves Image Super-Resolution**|Kangfu Mei et.al.|[2503.14503](http://arxiv.org/abs/2503.14503)|null|
+|**2025-03-18**|**Precise Quantum Chemistry calculations with few Slater Determinants**|Clemens Giuliani et.al.|[2503.14502](http://arxiv.org/abs/2503.14502)|null|
+|**2025-03-18**|**Advances in 4D Generation: A Survey**|Qiaowei Miao et.al.|[2503.14501](http://arxiv.org/abs/2503.14501)|null|
+|**2025-03-18**|**Utilization of Neighbor Information for Image Classification with Different Levels of Supervision**|Gihan Jayatilaka et.al.|[2503.14500](http://arxiv.org/abs/2503.14500)|null|
+|**2025-03-18**|**Measuring AI Ability to Complete Long Tasks**|Thomas Kwa et.al.|[2503.14499](http://arxiv.org/abs/2503.14499)|null|
+|**2025-03-18**|**Tracking Meets Large Multimodal Models for Driving Scenario Understanding**|Ayesha Ishaq et.al.|[2503.14498](http://arxiv.org/abs/2503.14498)|null|
+|**2025-03-18**|**Strong local uniqueness for the vacant set of random interlacements**|Subhajit Goswami et.al.|[2503.14497](http://arxiv.org/abs/2503.14497)|null|
+|**2025-03-18**|**Temporal Consistency for LLM Reasoning Process Error Identification**|Jiacheng Guo et.al.|[2503.14495](http://arxiv.org/abs/2503.14495)|null|
 |**2025-03-17**|**MetaScale: Test-Time Scaling with Evolving Meta-Thoughts**|Qin Liu et.al.|[2503.13447](http://arxiv.org/abs/2503.13447)|null|
 |**2025-03-17**|**MoManipVLA: Transferring Vision-language-action Models for General Mobile Manipulation**|Zhenyu Wu et.al.|[2503.13446](http://arxiv.org/abs/2503.13446)|null|
 |**2025-03-17**|**Faithfulness of LLM Self-Explanations for Commonsense Tasks: Larger Is Better, and Instruction-Tuning Allows Trade-Offs but Not Pareto Dominance**|Noah Y. Siegel et.al.|[2503.13445](http://arxiv.org/abs/2503.13445)|null|
@@ -94,6 +104,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-18**|**Trustworthy Verification of RISC-V Binaries Using Symbolic Execution in HolBA**|Karl Palmskog et.al.|[2503.14135](http://arxiv.org/abs/2503.14135)|null|
+|**2025-03-17**|**Branch Prediction Analysis of Morris-Pratt and Knuth-Morris-Pratt Algorithms**|Cyril Nicaud et.al.|[2503.13694](http://arxiv.org/abs/2503.13694)|null|
+|**2025-03-17**|**PrETi: Predicting Execution Time in Early Stage with LLVM and Machine Learning**|Risheng Xu et.al.|[2503.13679](http://arxiv.org/abs/2503.13679)|null|
+|**2025-03-15**|**The impact of artificial intelligence technology on cross-border trade in Southeast Asia: A meta-analytic approach**|Jun Cui et.al.|[2503.13529](http://arxiv.org/abs/2503.13529)|null|
 |**2025-03-16**|**Real-Time Cell Sorting with Scalable In Situ FPGA-Accelerated Deep Learning**|Khayrul Islam et.al.|[2503.12622](http://arxiv.org/abs/2503.12622)|**[link](https://github.com/Khayrulbuet13/LymphoML)**|
 |**2025-03-14**|**ARCAS: Adaptive Runtime System for Chiplet-Aware Scheduling**|Alessandro Fogli et.al.|[2503.11460](http://arxiv.org/abs/2503.11460)|null|
 |**2025-03-14**|**MobiVital: Self-supervised Time-series Quality Estimation for Contactless Respiration Monitoring Using UWB Radar**|Ziqi Wang et.al.|[2503.11064](http://arxiv.org/abs/2503.11064)|null|
