@@ -35,7 +35,7 @@ layout: default
 |**2025-03-18**|**Precise Quantum Chemistry calculations with few Slater Determinants**|Clemens Giuliani et.al.|[2503.14502](http://arxiv.org/abs/2503.14502)|null|
 |**2025-03-18**|**Advances in 4D Generation: A Survey**|Qiaowei Miao et.al.|[2503.14501](http://arxiv.org/abs/2503.14501)|**[link](https://github.com/miaoqiaowei/awesome-4d)**|
 |**2025-03-18**|**Utilization of Neighbor Information for Image Classification with Different Levels of Supervision**|Gihan Jayatilaka et.al.|[2503.14500](http://arxiv.org/abs/2503.14500)|null|
-|**2025-03-18**|**Measuring AI Ability to Complete Long Tasks**|Thomas Kwa et.al.|[2503.14499](http://arxiv.org/abs/2503.14499)|null|
+|**2025-03-18**|**Measuring AI Ability to Complete Long Tasks**|Thomas Kwa et.al.|[2503.14499](http://arxiv.org/abs/2503.14499)|**[link](https://github.com/METR/eval-analysis-public)**|
 |**2025-03-18**|**Tracking Meets Large Multimodal Models for Driving Scenario Understanding**|Ayesha Ishaq et.al.|[2503.14498](http://arxiv.org/abs/2503.14498)|**[link](https://github.com/mbzuai-oryx/trackingmeetslmm)**|
 |**2025-03-18**|**Strong local uniqueness for the vacant set of random interlacements**|Subhajit Goswami et.al.|[2503.14497](http://arxiv.org/abs/2503.14497)|null|
 |**2025-03-18**|**Temporal Consistency for LLM Reasoning Process Error Identification**|Jiacheng Guo et.al.|[2503.14495](http://arxiv.org/abs/2503.14495)|**[link](https://github.com/jcguo123/temporal-consistency)**|
