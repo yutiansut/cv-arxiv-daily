@@ -9,22 +9,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-27**|**Mobile-VideoGPT: Fast and Accurate Video Understanding Language Model**|Abdelrahman Shaker et.al.|[2503.21782](http://arxiv.org/abs/2503.21782)|null|
+|**2025-03-27**|**Mobile-VideoGPT: Fast and Accurate Video Understanding Language Model**|Abdelrahman Shaker et.al.|[2503.21782](http://arxiv.org/abs/2503.21782)|**[link](https://github.com/amshaker/mobile-videogpt)**|
 |**2025-03-27**|**VideoMage: Multi-Subject and Motion Customization of Text-to-Video Diffusion Models**|Chi-Pin Huang et.al.|[2503.21781](http://arxiv.org/abs/2503.21781)|null|
-|**2025-03-27**|**Semantic Library Adaptation: LoRA Retrieval and Fusion for Open-Vocabulary Semantic Segmentation**|Reza Qorbani et.al.|[2503.21780](http://arxiv.org/abs/2503.21780)|null|
+|**2025-03-27**|**Semantic Library Adaptation: LoRA Retrieval and Fusion for Open-Vocabulary Semantic Segmentation**|Reza Qorbani et.al.|[2503.21780](http://arxiv.org/abs/2503.21780)|**[link](https://github.com/rezaqorbani/semla)**|
 |**2025-03-27**|**X $^{2}$ -Gaussian: 4D Radiative Gaussian Splatting for Continuous-time Tomographic Reconstruction**|Weihao Yu et.al.|[2503.21779](http://arxiv.org/abs/2503.21779)|null|
 |**2025-03-27**|**HS-SLAM: Hybrid Representation with Structural Supervision for Improved Dense SLAM**|Ziren Gong et.al.|[2503.21778](http://arxiv.org/abs/2503.21778)|null|
-|**2025-03-27**|**Test-Time Visual In-Context Tuning**|Jiahao Xie et.al.|[2503.21777](http://arxiv.org/abs/2503.21777)|null|
-|**2025-03-27**|**Video-R1: Reinforcing Video Reasoning in MLLMs**|Kaituo Feng et.al.|[2503.21776](http://arxiv.org/abs/2503.21776)|null|
+|**2025-03-27**|**Test-Time Visual In-Context Tuning**|Jiahao Xie et.al.|[2503.21777](http://arxiv.org/abs/2503.21777)|**[link](https://github.com/jiahao000/vict)**|
+|**2025-03-27**|**Video-R1: Reinforcing Video Reasoning in MLLMs**|Kaituo Feng et.al.|[2503.21776](http://arxiv.org/abs/2503.21776)|**[link](https://github.com/tulerfeng/video-r1)**|
 |**2025-03-27**|**StyleMotif: Multi-Modal Motion Stylization using Style-Content Cross Fusion**|Ziyu Guo et.al.|[2503.21775](http://arxiv.org/abs/2503.21775)|null|
-|**2025-03-27**|**Optimal Stepsize for Diffusion Sampling**|Jianning Pei et.al.|[2503.21774](http://arxiv.org/abs/2503.21774)|null|
+|**2025-03-27**|**Optimal Stepsize for Diffusion Sampling**|Jianning Pei et.al.|[2503.21774](http://arxiv.org/abs/2503.21774)|**[link](https://github.com/bebebe666/optimalsteps)**|
 |**2025-03-27**|**Simulating quantum circuits with restricted quantum computers**|Christophe Piveteau et.al.|[2503.21773](http://arxiv.org/abs/2503.21773)|null|
-|**2025-03-26**|**Mobile-MMLU: A Mobile Intelligence Language Understanding Benchmark**|Sondos Mahmoud Bsharat et.al.|[2503.20786](http://arxiv.org/abs/2503.20786)|null|
-|**2025-03-26**|**Free4D: Tuning-free 4D Scene Generation with Spatial-Temporal Consistency**|Tianqi Liu et.al.|[2503.20785](http://arxiv.org/abs/2503.20785)|null|
+|**2025-03-26**|**Mobile-MMLU: A Mobile Intelligence Language Understanding Benchmark**|Sondos Mahmoud Bsharat et.al.|[2503.20786](http://arxiv.org/abs/2503.20786)|**[link](https://github.com/vila-lab/mobile-mmlu)**|
+|**2025-03-26**|**Free4D: Tuning-free 4D Scene Generation with Spatial-Temporal Consistency**|Tianqi Liu et.al.|[2503.20785](http://arxiv.org/abs/2503.20785)|**[link](https://github.com/tqtqliu/free4d)**|
 |**2025-03-26**|**FB-4D: Spatial-Temporal Coherent Dynamic 3D Content Generation with Feature Banks**|Jinwei Li et.al.|[2503.20784](http://arxiv.org/abs/2503.20784)|null|
-|**2025-03-26**|**Understanding R1-Zero-Like Training: A Critical Perspective**|Zichen Liu et.al.|[2503.20783](http://arxiv.org/abs/2503.20783)|null|
+|**2025-03-26**|**Understanding R1-Zero-Like Training: A Critical Perspective**|Zichen Liu et.al.|[2503.20783](http://arxiv.org/abs/2503.20783)|**[link](https://github.com/sail-sg/understand-r1-zero)**|
 |**2025-03-26**|**Zero-Shot Audio-Visual Editing via Cross-Modal Delta Denoising**|Yan-Bo Lin et.al.|[2503.20782](http://arxiv.org/abs/2503.20782)|null|
-|**2025-03-26**|**BASKET: A Large-Scale Video Dataset for Fine-Grained Skill Estimation**|Yulu Pan et.al.|[2503.20781](http://arxiv.org/abs/2503.20781)|null|
+|**2025-03-26**|**BASKET: A Large-Scale Video Dataset for Fine-Grained Skill Estimation**|Yulu Pan et.al.|[2503.20781](http://arxiv.org/abs/2503.20781)|**[link](https://github.com/yulupan00/basket)**|
 |**2025-03-26**|**Inclusive hadroproduction of charmonia-bottomonia pairs in the CGC framework**|M. Siddikov et.al.|[2503.20780](http://arxiv.org/abs/2503.20780)|null|
 |**2025-03-26**|**PGC: Physics-Based Gaussian Cloth from a Single Pose**|Michelle Guo et.al.|[2503.20779](http://arxiv.org/abs/2503.20779)|null|
 |**2025-03-26**|**Detectability of the chiral gravitational wave background from audible axions with the LISA-Taiji network**|Hong Su et.al.|[2503.20778](http://arxiv.org/abs/2503.20778)|null|
@@ -33,7 +33,7 @@ layout: default
 |**2025-03-25**|**A New Hope for Obscured AGN: The PRIMA-NewAthena Alliance**|Luigi Barchiesi et.al.|[2503.19915](http://arxiv.org/abs/2503.19915)|null|
 |**2025-03-25**|**Learning 3D Object Spatial Relationships from Pre-trained 2D Diffusion Models**|Sangwon Beak et.al.|[2503.19914](http://arxiv.org/abs/2503.19914)|null|
 |**2025-03-25**|**PartRM: Modeling Part-Level Dynamics with Large Cross-State Reconstruction Model**|Mingju Gao et.al.|[2503.19913](http://arxiv.org/abs/2503.19913)|null|
-|**2025-03-25**|**SuperFlow++: Enhanced Spatiotemporal Consistency for Cross-Modal Data Pretraining**|Xiang Xu et.al.|[2503.19912](http://arxiv.org/abs/2503.19912)|null|
+|**2025-03-25**|**SuperFlow++: Enhanced Spatiotemporal Consistency for Cross-Modal Data Pretraining**|Xiang Xu et.al.|[2503.19912](http://arxiv.org/abs/2503.19912)|**[link](https://github.com/xiangxu-0103/superflow)**|
 |**2025-03-25**|**Real-time all-optical signal equalisation with silicon photonic recurrent neural networks**|Ruben Van Assche et.al.|[2503.19911](http://arxiv.org/abs/2503.19911)|null|
 |**2025-03-25**|**CoLLM: A Large Language Model for Composed Image Retrieval**|Chuong Huynh et.al.|[2503.19910](http://arxiv.org/abs/2503.19910)|**[link](https://github.com/hmchuong/CoLLM)**|
 |**2025-03-25**|**In the Magma chamber: Update and challenges in ground-truth vulnerabilities revival for automatic input generator comparison**|Timothée Riom et.al.|[2503.19909](http://arxiv.org/abs/2503.19909)|null|
@@ -48,7 +48,7 @@ layout: default
 |**2025-03-24**|**DINO in the Room: Leveraging 2D Foundation Models for 3D Segmentation**|Karim Abou Zeid et.al.|[2503.18944](http://arxiv.org/abs/2503.18944)|**[link](https://github.com/VisualComputingInstitute/DITR)**|
 |**2025-03-24**|**SlowFast-LLaVA-1.5: A Family of Token-Efficient Video Large Language Models for Long-Form Video Understanding**|Mingze Xu et.al.|[2503.18943](http://arxiv.org/abs/2503.18943)|null|
 |**2025-03-24**|**Video-T1: Test-Time Scaling for Video Generation**|Fangfu Liu et.al.|[2503.18942](http://arxiv.org/abs/2503.18942)|null|
-|**2025-03-24**|**Exploring Training and Inference Scaling Laws in Generative Retrieval**|Hongru Cai et.al.|[2503.18941](http://arxiv.org/abs/2503.18941)|null|
+|**2025-03-24**|**Exploring Training and Inference Scaling Laws in Generative Retrieval**|Hongru Cai et.al.|[2503.18941](http://arxiv.org/abs/2503.18941)|**[link](https://github.com/HongruCai/SLGR)**|
 |**2025-03-21**|**On the road to the radius valley: distinguishing between gas dwarfs and water worlds with young transiting exoplanets**|James G. Rogers et.al.|[2503.17364](http://arxiv.org/abs/2503.17364)|null|
 |**2025-03-21**|**Dancing with Critiques: Enhancing LLM Reasoning with Stepwise Natural Language Self-Critique**|Yansi Li et.al.|[2503.17363](http://arxiv.org/abs/2503.17363)|null|
 |**2025-03-21**|**Criteria for unbiased estimation: applications to noise-agnostic sensing and learnability of quantum channel**|Hyukgun Kwon et.al.|[2503.17362](http://arxiv.org/abs/2503.17362)|null|
@@ -134,7 +134,7 @@ layout: default
 |**2025-03-11**|**JWST Spectroscopic View of a Rapidly Growing Dust-obscured Quasar at $z \sim 4$ : Effect of Dust Extinction Correction on Black Hole Mass and Eddington Ratio Estimation**|Dohyeong Kim et.al.|[2503.08687](http://arxiv.org/abs/2503.08687)|null|
 |**2025-03-11**|**OmniMamba: Efficient and Unified Multimodal Understanding and Generation via State Space Models**|Jialv Zou et.al.|[2503.08686](http://arxiv.org/abs/2503.08686)|**[link](https://github.com/hustvl/omnimamba)**|
 |**2025-03-11**|**"Principal Components" Enable A New Language of Images**|Xin Wen et.al.|[2503.08685](http://arxiv.org/abs/2503.08685)|null|
-|**2025-03-11**|**Perplexity Trap: PLM-Based Retrievers Overrate Low Perplexity Documents**|Haoyu Wang et.al.|[2503.08684](http://arxiv.org/abs/2503.08684)|null|
+|**2025-03-11**|**Perplexity Trap: PLM-Based Retrievers Overrate Low Perplexity Documents**|Haoyu Wang et.al.|[2503.08684](http://arxiv.org/abs/2503.08684)|**[link](https://github.com/whydwelledonai/perplexity-trap)**|
 |**2025-03-11**|**CoLMDriver: LLM-based Negotiation Benefits Cooperative Autonomous Driving**|Changxing Liu et.al.|[2503.08683](http://arxiv.org/abs/2503.08683)|**[link](https://github.com/cxliu0314/colmdriver)**|
 |**2025-03-11**|**Two key factors to superconductivity of Ruddlesden-Popper nickelates: enhanced quasi-particle weight and strong local spin fluctuation**|Zhenfeng Ouyang et.al.|[2503.08682](http://arxiv.org/abs/2503.08682)|null|
 |**2025-03-11**|**Self-Taught Self-Correction for Small Language Models**|Viktor Moskvoretskii et.al.|[2503.08681](http://arxiv.org/abs/2503.08681)|null|
@@ -165,7 +165,7 @@ layout: default
 |**2025-03-06**|**LLMVoX: Autoregressive Streaming Text-to-Speech Model for Any LLM**|Sambal Shikhar et.al.|[2503.04724](http://arxiv.org/abs/2503.04724)|null|
 |**2025-03-06**|**Shifting Long-Context LLMs Research from Input to Output**|Yuhao Wu et.al.|[2503.04723](http://arxiv.org/abs/2503.04723)|null|
 |**2025-03-06**|**Enough Coin Flips Can Make LLMs Act Bayesian**|Ritwik Gupta et.al.|[2503.04722](http://arxiv.org/abs/2503.04722)|null|
-|**2025-03-06**|**Full-Duplex-Bench: A Benchmark to Evaluate Full-duplex Spoken Dialogue Models on Turn-taking Capabilities**|Guan-Ting Lin et.al.|[2503.04721](http://arxiv.org/abs/2503.04721)|null|
+|**2025-03-06**|**Full-Duplex-Bench: A Benchmark to Evaluate Full-duplex Spoken Dialogue Models on Turn-taking Capabilities**|Guan-Ting Lin et.al.|[2503.04721](http://arxiv.org/abs/2503.04721)|**[link](https://github.com/DanielLin94144/Full-Duplex-Bench)**|
 |**2025-03-06**|**FluidNexus: 3D Fluid Reconstruction and Prediction from a Single Video**|Yue Gao et.al.|[2503.04720](http://arxiv.org/abs/2503.04720)|null|
 |**2025-03-06**|**Floxels: Fast Unsupervised Voxel Based Scene Flow Estimation**|David T. Hoffmann et.al.|[2503.04718](http://arxiv.org/abs/2503.04718)|null|
 |**2025-03-06**|**MIGHTEE: exploring the relationship between spectral index, redshift and radio luminosity**|Siddhant Pinjarkar et.al.|[2503.04717](http://arxiv.org/abs/2503.04717)|null|
