@@ -1,4 +1,4 @@
-## Updated on 2025.04.01
+## Updated on 2025.04.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-31**|**Easi3R: Estimating Disentangled Motion from DUSt3R Without Training**|Xingyu Chen et.al.|[2503.24391](http://arxiv.org/abs/2503.24391)|**[link](https://github.com/inception3d/easi3r)**|
+|**2025-03-31**|**Intertwining bulk and surface: the case of UTe $_2$**|Andras Szabo et.al.|[2503.24390](http://arxiv.org/abs/2503.24390)|null|
+|**2025-03-31**|**SU-YOLO: Spiking Neural Network for Efficient Underwater Object Detection**|Chenyang Li et.al.|[2503.24389](http://arxiv.org/abs/2503.24389)|**[link](https://github.com/lwxfight/snn-underwater)**|
+|**2025-03-31**|**RIG: Synergizing Reasoning and Imagination in End-to-End Generalist Policy**|Zhonghan Zhao et.al.|[2503.24388](http://arxiv.org/abs/2503.24388)|null|
+|**2025-03-31**|**Consistent Subject Generation via Contrastive Instantiated Concepts**|Lee Hsin-Ying et.al.|[2503.24387](http://arxiv.org/abs/2503.24387)|null|
+|**2025-03-31**|**How interacting Bose gases scatter light**|Konstantinos Konstantinou et.al.|[2503.24386](http://arxiv.org/abs/2503.24386)|null|
+|**2025-03-31**|**Evolution of structure growth during dark energy domination: insights from the cross-correlation of DESI galaxies with CMB lensing and galaxy magnification**|Noah Sailer et.al.|[2503.24385](http://arxiv.org/abs/2503.24385)|null|
+|**2025-03-31**|**High Energy Emission from the Intrabinary Shocks in Redback Pulsars**|Andrew G. Sullivan et.al.|[2503.24384](http://arxiv.org/abs/2503.24384)|null|
+|**2025-03-31**|**Two-color magneto-optical trapping of ytterbium atoms**|Xiao Li et.al.|[2503.24383](http://arxiv.org/abs/2503.24383)|null|
+|**2025-03-31**|**Free360: Layered Gaussian Splatting for Unbounded 360-Degree View Synthesis from Extremely Sparse and Unposed Views**|Chong Bao et.al.|[2503.24382](http://arxiv.org/abs/2503.24382)|null|
 |**2025-03-28**|**Q-Insight: Understanding Image Quality via Visual Reinforcement Learning**|Weiqi Li et.al.|[2503.22679](http://arxiv.org/abs/2503.22679)|**[link](https://github.com/lwq20020127/q-insight)**|
 |**2025-03-28**|**Self-Evolving Multi-Agent Simulations for Realistic Clinical Interactions**|Mohammad Almansoori et.al.|[2503.22678](http://arxiv.org/abs/2503.22678)|null|
 |**2025-03-28**|**DSO: Aligning 3D Generators with Simulation Feedback for Physical Soundness**|Ruining Li et.al.|[2503.22677](http://arxiv.org/abs/2503.22677)|null|
@@ -184,18 +194,21 @@
 |**2025-03-06**|**Floxels: Fast Unsupervised Voxel Based Scene Flow Estimation**|David T. Hoffmann et.al.|[2503.04718](http://arxiv.org/abs/2503.04718)|null|
 |**2025-03-06**|**MIGHTEE: exploring the relationship between spectral index, redshift and radio luminosity**|Siddhant Pinjarkar et.al.|[2503.04717](http://arxiv.org/abs/2503.04717)|null|
 
-<p align=right>(<a href=#updated-on-20250401>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250402>back to top</a>)</p>
 
 ## 低延迟交易
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-31**|**HeteroPod: XPU-Accelerated Infrastructure Offloading for Commodity Cloud-Native Applications**|Bicheng Yang et.al.|[2503.23952](http://arxiv.org/abs/2503.23952)|null|
+|**2025-03-29**|**Plug & Offload: Transparently Offloading TCP Stack onto Off-path SmartNIC with PnO-TCP**|Hailong Nan et.al.|[2503.22930](http://arxiv.org/abs/2503.22930)|null|
+|**2025-03-26**|**PowerGNN: A Topology-Aware Graph Neural Network for Electricity Grids**|Dhruv Suri et.al.|[2503.22721](http://arxiv.org/abs/2503.22721)|null|
 |**2025-03-27**|**Quantitative Evaluation of Quantum/Classical Neural Network Using a Game Solver Metric**|Suzukaze Kamei et.al.|[2503.21514](http://arxiv.org/abs/2503.21514)|null|
 |**2025-03-26**|**Can geometric combinatorics improve RNA branching predictions?**|Svetlana Poznanović et.al.|[2503.20977](http://arxiv.org/abs/2503.20977)|**[link](https://github.com/gtDMMB/pmfe2023)**|
 |**2025-03-25**|**Integrating Prefetcher Selection with Dynamic Request Allocation Improves Prefetching Efficiency**|Mengming Li et.al.|[2503.19390](http://arxiv.org/abs/2503.19390)|null|
 |**2025-03-25**|**LOCO: Rethinking Objects for Network Memory**|George Hodgkins et.al.|[2503.19270](http://arxiv.org/abs/2503.19270)|null|
 |**2025-03-24**|**The On-Board Computer of the AcubeSAT Mission**|Konstantinos Tsoupos et.al.|[2503.18473](http://arxiv.org/abs/2503.18473)|null|
-|**2025-03-24**|**Development of the firmware logic validation system using the FPGA accelerator**|Ryugo Mizuhiki et.al.|[2503.18357](http://arxiv.org/abs/2503.18357)|null|
+|**2025-04-01**|**Development of the firmware logic validation system using the FPGA accelerator**|Ryugo Mizuhiki et.al.|[2503.18357](http://arxiv.org/abs/2503.18357)|null|
 |**2025-03-23**|**Reliable Replication Protocols on SmartNICs**|M. R. Siavash Katebzadeh et.al.|[2503.18093](http://arxiv.org/abs/2503.18093)|null|
 |**2025-03-19**|**Probabilistic Delay Forecasting in 5G Using Recurrent and Attention-Based Architectures**|Samie Mostafavi et.al.|[2503.15297](http://arxiv.org/abs/2503.15297)|**[link](https://github.com/samiemostafavi/wireless-tpp)**|
 |**2025-03-17**|**Matching Skeleton-based Activity Representations with Heterogeneous Signals for HAR**|Shuheng Li et.al.|[2503.14547](http://arxiv.org/abs/2503.14547)|null|
@@ -222,7 +235,7 @@
 |**2025-02-27**|**Wildcat: Educational RISC-V Microprocessors**|Martin Schoeberl et.al.|[2502.20197](http://arxiv.org/abs/2502.20197)|**[link](https://github.com/schoeberl/wildcat)**|
 |**2025-02-27**|**FPGA-Accelerated SpeckleNN with SNL for Real-time X-ray Single-Particle Imaging**|Abhilasha Dave et.al.|[2502.19734](http://arxiv.org/abs/2502.19734)|null|
 
-<p align=right>(<a href=#updated-on-20250401>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250402>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
