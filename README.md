@@ -1,4 +1,4 @@
-## Updated on 2025.04.04
+## Updated on 2025.04.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-03**|**Bubbles in a box: Eliminating edge nucleation in cold-atom simulators of vacuum decay**|Alexander C. Jenkins et.al.|[2504.02829](http://arxiv.org/abs/2504.02829)|null|
+|**2025-04-03**|**Concept Lancet: Image Editing with Compositional Representation Transplant**|Jinqi Luo et.al.|[2504.02828](http://arxiv.org/abs/2504.02828)|null|
+|**2025-04-03**|**On Vanishing Variance in Transformer Length Generalization**|Ruining Li et.al.|[2504.02827](http://arxiv.org/abs/2504.02827)|null|
+|**2025-04-03**|**Envisioning Beyond the Pixels: Benchmarking Reasoning-Informed Visual Editing**|Xiangyu Zhao et.al.|[2504.02826](http://arxiv.org/abs/2504.02826)|null|
+|**2025-04-03**|**STING-BEE: Towards Vision-Language Model for Real-World X-ray Baggage Security Inspection**|Divya Velayudhan et.al.|[2504.02823](http://arxiv.org/abs/2504.02823)|null|
+|**2025-04-03**|**Do Two AI Scientists Agree?**|Xinghong Fu et.al.|[2504.02822](http://arxiv.org/abs/2504.02822)|null|
+|**2025-04-03**|**Sparse Autoencoders Learn Monosemantic Features in Vision-Language Models**|Mateusz Pach et.al.|[2504.02821](http://arxiv.org/abs/2504.02821)|null|
+|**2025-04-03**|**Excitation of the Glashow resonance without neutrino beams**|I. Alikhanov et.al.|[2504.02820](http://arxiv.org/abs/2504.02820)|null|
+|**2025-04-03**|**GMR-Conv: An Efficient Rotation and Reflection Equivariant Convolution Kernel Using Gaussian Mixture Rings**|Yuexi Du et.al.|[2504.02819](http://arxiv.org/abs/2504.02819)|null|
+|**2025-04-03**|**Universal Log-Optimality for General Classes of e-processes and Sequential Hypothesis Tests**|Ian Waudby-Smith et.al.|[2504.02818](http://arxiv.org/abs/2504.02818)|null|
 |**2025-04-02**|**Learning from Streaming Video with Orthogonal Gradients**|Tengda Han et.al.|[2504.01961](http://arxiv.org/abs/2504.01961)|null|
 |**2025-04-02**|**Diffusion-Guided Gaussian Splatting for Large-Scale Unconstrained 3D Reconstruction and Novel View Synthesis**|Niluthpol Chowdhury Mithun et.al.|[2504.01960](http://arxiv.org/abs/2504.01960)|null|
 |**2025-04-02**|**Slot-Level Robotic Placement via Visual Imitation from Single Human Video**|Dandan Shan et.al.|[2504.01959](http://arxiv.org/abs/2504.01959)|null|
@@ -204,12 +214,14 @@
 |**2025-03-06**|**Floxels: Fast Unsupervised Voxel Based Scene Flow Estimation**|David T. Hoffmann et.al.|[2503.04718](http://arxiv.org/abs/2503.04718)|null|
 |**2025-03-06**|**MIGHTEE: exploring the relationship between spectral index, redshift and radio luminosity**|Siddhant Pinjarkar et.al.|[2503.04717](http://arxiv.org/abs/2503.04717)|null|
 
-<p align=right>(<a href=#updated-on-20250404>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250405>back to top</a>)</p>
 
 ## 低延迟交易
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-03**|**OmniTalker: Real-Time Text-Driven Talking Head Generation with In-Context Audio-Visual Style Replication**|Zhongjian Wang et.al.|[2504.02433](http://arxiv.org/abs/2504.02433)|null|
+|**2025-04-03**|**VoiceCraft-Dub: Automated Video Dubbing with Neural Codec Language Models**|Kim Sung-Bin et.al.|[2504.02386](http://arxiv.org/abs/2504.02386)|null|
 |**2025-04-01**|**Entanglement-verified time distribution in a metropolitan network**|Mohammed K. Alqedra et.al.|[2504.00802](http://arxiv.org/abs/2504.00802)|null|
 |**2025-03-31**|**HeteroPod: XPU-Accelerated Infrastructure Offloading for Commodity Cloud-Native Applications**|Bicheng Yang et.al.|[2503.23952](http://arxiv.org/abs/2503.23952)|null|
 |**2025-03-29**|**Plug & Offload: Transparently Offloading TCP Stack onto Off-path SmartNIC with PnO-TCP**|Hailong Nan et.al.|[2503.22930](http://arxiv.org/abs/2503.22930)|null|
@@ -246,7 +258,7 @@
 |**2025-02-27**|**Wildcat: Educational RISC-V Microprocessors**|Martin Schoeberl et.al.|[2502.20197](http://arxiv.org/abs/2502.20197)|**[link](https://github.com/schoeberl/wildcat)**|
 |**2025-02-27**|**FPGA-Accelerated SpeckleNN with SNL for Real-time X-ray Single-Particle Imaging**|Abhilasha Dave et.al.|[2502.19734](http://arxiv.org/abs/2502.19734)|null|
 
-<p align=right>(<a href=#updated-on-20250404>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250405>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
