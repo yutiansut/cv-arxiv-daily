@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2025.04.10
+## Updated on 2025.04.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## quant
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-09**|**Nonhermitian topological zero modes at smooth domain walls: Exact solutions**|Pasquale Marra et.al.|[2504.07098](http://arxiv.org/abs/2504.07098)|null|
+|**2025-04-09**|**Sculpting Subspaces: Constrained Full Fine-Tuning in LLMs for Continual Learning**|Nikhil Shivakumar Nayak et.al.|[2504.07097](http://arxiv.org/abs/2504.07097)|null|
+|**2025-04-09**|**OLMoTrace: Tracing Language Model Outputs Back to Trillions of Training Tokens**|Jiacheng Liu et.al.|[2504.07096](http://arxiv.org/abs/2504.07096)|null|
+|**2025-04-09**|**Neural Motion Simulator: Pushing the Limit of World Models in Reinforcement Learning**|Chenjie Hao et.al.|[2504.07095](http://arxiv.org/abs/2504.07095)|null|
+|**2025-04-09**|**Computing Canonical Averages with Quantum and Classical Optimizers: Thermodynamic Reweighting for QUBO Models of Physical Systems**|Francesco Slongo et.al.|[2504.07094](http://arxiv.org/abs/2504.07094)|null|
+|**2025-04-09**|**FlashDepth: Real-time Streaming Video Depth Estimation at 2K Resolution**|Gene Chou et.al.|[2504.07093](http://arxiv.org/abs/2504.07093)|null|
+|**2025-04-09**|**Are We Done with Object-Centric Learning?**|Alexander Rubinstein et.al.|[2504.07092](http://arxiv.org/abs/2504.07092)|null|
+|**2025-04-09**|**AssistanceZero: Scalably Solving Assistance Games**|Cassidy Laidlaw et.al.|[2504.07091](http://arxiv.org/abs/2504.07091)|null|
+|**2025-04-09**|**A Differentiable, End-to-End Forward Model for 21 cm Cosmology: Estimating the Foreground, Instrument, and Signal Joint Posterior**|Nicholas Kern et.al.|[2504.07090](http://arxiv.org/abs/2504.07090)|null|
+|**2025-04-09**|**OmniCaptioner: One Captioner to Rule Them All**|Yiting Lu et.al.|[2504.07089](http://arxiv.org/abs/2504.07089)|null|
 |**2025-04-08**|**Prethermalization of light and matter in cavity-coupled Rydberg arrays**|Aleksandr N. Mikheev et.al.|[2504.06267](http://arxiv.org/abs/2504.06267)|null|
 |**2025-04-08**|**Constraining the [CII] luminosity function from the power spectrum of line intensity maps at redshift 3.6**|Elena Marcuzzo et.al.|[2504.06266](http://arxiv.org/abs/2504.06266)|null|
 |**2025-04-08**|**GOLLuM: Gaussian Process Optimized LLMs -- Reframing LLM Finetuning through Bayesian Optimization**|Bojana Ranković et.al.|[2504.06265](http://arxiv.org/abs/2504.06265)|null|
@@ -244,6 +254,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-09**|**Low-latency control system for feedback experiments with optical tweezer arrays**|Amir H. Dadpour et.al.|[2504.06528](http://arxiv.org/abs/2504.06528)|null|
+|**2025-04-08**|**Accelerating LLM Inference Throughput via Asynchronous KV Cache Prefetching**|Yanhao Dong et.al.|[2504.06319](http://arxiv.org/abs/2504.06319)|null|
 |**2025-04-08**|**Zerrow: True Zero-Copy Arrow Pipelines in Bauplan**|Yifan Dai et.al.|[2504.06151](http://arxiv.org/abs/2504.06151)|null|
 |**2025-04-07**|**dpBento: Benchmarking DPUs for Data Processing**|Jiasheng Hu et.al.|[2504.05536](http://arxiv.org/abs/2504.05536)|null|
 |**2025-04-07**|**A High-Performance Curve25519 and Curve448 Unified Elliptic Curve Cryptography Accelerator**|Aniket Banerjee et.al.|[2504.04731](http://arxiv.org/abs/2504.04731)|null|
