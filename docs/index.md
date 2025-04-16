@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2025.04.15
+## Updated on 2025.04.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## quant
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-14**|**Independent connection in ACTion during inflation**|Alberto Salvio et.al.|[2504.10488](http://arxiv.org/abs/2504.10488)|null|
+|**2025-04-14**|**FLOSS: Free Lunch in Open-vocabulary Semantic Segmentation**|Yasser Benigmim et.al.|[2504.10487](http://arxiv.org/abs/2504.10487)|null|
+|**2025-04-14**|**DNF-Avatar: Distilling Neural Fields for Real-time Animatable Avatar Relighting**|Zeren Jiang et.al.|[2504.10486](http://arxiv.org/abs/2504.10486)|null|
+|**2025-04-14**|**Decoupled Diffusion Sparks Adaptive Scene Generation**|Yunsong Zhou et.al.|[2504.10485](http://arxiv.org/abs/2504.10485)|null|
+|**2025-04-14**|**Generalized Symmetries of Non-SUSY and Discrete Torsion String Backgrounds**|Noah Braeger et.al.|[2504.10484](http://arxiv.org/abs/2504.10484)|null|
+|**2025-04-14**|**REPA-E: Unlocking VAE for End-to-End Tuning with Latent Diffusion Transformers**|Xingjian Leng et.al.|[2504.10483](http://arxiv.org/abs/2504.10483)|null|
+|**2025-04-14**|**Cosmology with the angular cross-correlation of gravitational-wave and galaxy catalogs: forecasts for next-generation interferometers and the Euclid survey**|Alessandro Pedrotti et.al.|[2504.10482](http://arxiv.org/abs/2504.10482)|null|
+|**2025-04-14**|**xVerify: Efficient Answer Verifier for Reasoning Model Evaluations**|Ding Chen et.al.|[2504.10481](http://arxiv.org/abs/2504.10481)|null|
+|**2025-04-14**|**Probing Long-Range Forces in Neutrino Oscillations at the ESSnuSB Experiment**|ESSnuSB et.al.|[2504.10480](http://arxiv.org/abs/2504.10480)|null|
+|**2025-04-14**|**InternVL3: Exploring Advanced Training and Test-Time Recipes for Open-Source Multimodal Models**|Jinguo Zhu et.al.|[2504.10479](http://arxiv.org/abs/2504.10479)|null|
 |**2025-04-11**|**GigaTok: Scaling Visual Tokenizers to 3 Billion Parameters for Autoregressive Image Generation**|Tianwei Xiong et.al.|[2504.08736](http://arxiv.org/abs/2504.08736)|null|
 |**2025-04-11**|**Emergent phases in the Yao-Lee model via coupling to topological spin textures**|Muhammad Akram et.al.|[2504.08735](http://arxiv.org/abs/2504.08735)|null|
 |**2025-04-11**|**Towards an Understanding of Context Utilization in Code Intelligence**|Yanlin Wang et.al.|[2504.08734](http://arxiv.org/abs/2504.08734)|null|
@@ -274,6 +284,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-14**|**Towards Low-Latency Event-based Obstacle Avoidance on a FPGA-Drone**|Pietro Bonazzi et.al.|[2504.10400](http://arxiv.org/abs/2504.10400)|null|
+|**2025-04-14**|**Modelling & Steady State Compliance Testing of an Improved Time Synchronized Phasor Measurement Unit Based on IEEE Standard C37.118.1**|Nisarg Trivedi et.al.|[2504.09883](http://arxiv.org/abs/2504.09883)|null|
 |**2025-04-10**|**Quasi-Periodic Pulsations in Ionospheric TEC Synchronized with Solar Flare EUV Emission**|Aisling N. O'Hare et.al.|[2504.07714](http://arxiv.org/abs/2504.07714)|null|
 |**2025-04-10**|**Exploiting Beamforming for Enforcing Semantic Secrecy in 5G NR mmWave Communications**|Luis Torres-Figueroa et.al.|[2504.07678](http://arxiv.org/abs/2504.07678)|null|
 |**2025-04-09**|**Low-latency control system for feedback experiments with optical tweezer arrays**|Amir H. Dadpour et.al.|[2504.06528](http://arxiv.org/abs/2504.06528)|null|
