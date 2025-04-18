@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2025.04.17
+## Updated on 2025.04.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## quant
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-16**|**Adapting a World Model for Trajectory Following in a 3D Game**|Marko Tot et.al.|[2504.12299](http://arxiv.org/abs/2504.12299)|null|
+|**2025-04-16**|**Projectively implemented altermagnetism in an exactly solvable quantum spin liquid**|Avedis Neehus et.al.|[2504.12298](http://arxiv.org/abs/2504.12298)|null|
+|**2025-04-16**|**Optimal flock formation induced by agent heterogeneity**|Arthur N. Montanari et.al.|[2504.12297](http://arxiv.org/abs/2504.12297)|null|
+|**2025-04-16**|**Set families: restricted distances via restricted intersections**|Zichao Dong et.al.|[2504.12296](http://arxiv.org/abs/2504.12296)|null|
+|**2025-04-16**|**Murmurations for elliptic curves ordered by height**|Will Sawin et.al.|[2504.12295](http://arxiv.org/abs/2504.12295)|null|
+|**2025-04-16**|**Exceptional times when bigeodesics exist in dynamical last passage percolation**|Manan Bhatia et.al.|[2504.12293](http://arxiv.org/abs/2504.12293)|null|
+|**2025-04-16**|**SHeaP: Self-Supervised Head Geometry Predictor Learned via 2D Gaussians**|Liam Schoneveld et.al.|[2504.12292](http://arxiv.org/abs/2504.12292)|null|
+|**2025-04-16**|**Liouvillean Spectral Transition in Noisy Quantum Many-Body Scars**|Jin-Lou Ma et.al.|[2504.12291](http://arxiv.org/abs/2504.12291)|null|
+|**2025-04-16**|**The underlap coefficient as a measure of a biomarker's discriminatory ability**|Zhaoxi Zhang et.al.|[2504.12288](http://arxiv.org/abs/2504.12288)|null|
+|**2025-04-16**|**Trend Filtered Mixture of Experts for Automated Gating of High-Frequency Flow Cytometry Data**|Sangwon Hyun et.al.|[2504.12287](http://arxiv.org/abs/2504.12287)|null|
 |**2025-04-15**|**Intermediate phases in $α$-RuCl$_3$ under in-plane magnetic field via interlayer spin interactions**|Jiefu Cen et.al.|[2504.11458](http://arxiv.org/abs/2504.11458)|null|
 |**2025-04-15**|**Aligning Generative Denoising with Discriminative Objectives Unleashes Diffusion for Visual Perception**|Ziqi Pang et.al.|[2504.11457](http://arxiv.org/abs/2504.11457)|null|
 |**2025-04-15**|**DeepMath-103K: A Large-Scale, Challenging, Decontaminated, and Verifiable Mathematical Dataset for Advancing Reasoning**|Zhiwei He et.al.|[2504.11456](http://arxiv.org/abs/2504.11456)|null|
@@ -294,6 +304,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-16**|**ProvSQL: A General System for Keeping Track of the Provenance and Probability of Data**|Aryak Sen et.al.|[2504.12058](http://arxiv.org/abs/2504.12058)|null|
 |**2025-04-15**|**Design and Verification of a Synchronus First In First Out (FIFO)**|Yatheeswar Penta et.al.|[2504.10901](http://arxiv.org/abs/2504.10901)|null|
 |**2025-04-14**|**Towards Low-Latency Event-based Obstacle Avoidance on a FPGA-Drone**|Pietro Bonazzi et.al.|[2504.10400](http://arxiv.org/abs/2504.10400)|null|
 |**2025-04-14**|**Modelling & Steady State Compliance Testing of an Improved Time Synchronized Phasor Measurement Unit Based on IEEE Standard C37.118.1**|Nisarg Trivedi et.al.|[2504.09883](http://arxiv.org/abs/2504.09883)|null|
