@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2025.04.18
+## Updated on 2025.04.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## quant
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-17**|**Perception Encoder: The best visual embeddings are not at the output of the network**|Daniel Bolya et.al.|[2504.13181](http://arxiv.org/abs/2504.13181)|null|
+|**2025-04-17**|**PerceptionLM: Open-Access Data and Models for Detailed Visual Understanding**|Jang Hyun Cho et.al.|[2504.13180](http://arxiv.org/abs/2504.13180)|null|
+|**2025-04-17**|**ViTa-Zero: Zero-shot Visuotactile Object 6D Pose Estimation**|Hongyu Li et.al.|[2504.13179](http://arxiv.org/abs/2504.13179)|null|
+|**2025-04-17**|**Aligning Constraint Generation with Design Intent in Parametric CAD**|Evan Casey et.al.|[2504.13178](http://arxiv.org/abs/2504.13178)|null|
+|**2025-04-17**|**Single-Shot Shape and Reflectance with Spatial Polarization Multiplexing**|Tomoki Ichikawa et.al.|[2504.13177](http://arxiv.org/abs/2504.13177)|null|
+|**2025-04-17**|**IMAGGarment-1: Fine-Grained Garment Generation for Controllable Fashion Design**|Fei Shen et.al.|[2504.13176](http://arxiv.org/abs/2504.13176)|null|
+|**2025-04-17**|**Novel Demonstration Generation with Gaussian Splatting Enables Robust One-Shot Manipulation**|Sizhe Yang et.al.|[2504.13175](http://arxiv.org/abs/2504.13175)|null|
+|**2025-04-17**|**Quantum algorithm for solving nonlinear differential equations based on physics-informed effective Hamiltonians**|Hsin-Yu Wu et.al.|[2504.13174](http://arxiv.org/abs/2504.13174)|null|
+|**2025-04-17**|**It's All Connected: A Journey Through Test-Time Memorization, Attentional Bias, Retention, and Online Optimization**|Ali Behrouz et.al.|[2504.13173](http://arxiv.org/abs/2504.13173)|null|
+|**2025-04-17**|**SemCORE: A Semantic-Enhanced Generative Cross-Modal Retrieval Framework with MLLMs**|Haoxuan Li et.al.|[2504.13172](http://arxiv.org/abs/2504.13172)|null|
 |**2025-04-16**|**Adapting a World Model for Trajectory Following in a 3D Game**|Marko Tot et.al.|[2504.12299](http://arxiv.org/abs/2504.12299)|null|
 |**2025-04-16**|**Projectively implemented altermagnetism in an exactly solvable quantum spin liquid**|Avedis Neehus et.al.|[2504.12298](http://arxiv.org/abs/2504.12298)|null|
 |**2025-04-16**|**Optimal flock formation induced by agent heterogeneity**|Arthur N. Montanari et.al.|[2504.12297](http://arxiv.org/abs/2504.12297)|null|
@@ -304,6 +314,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-17**|**Simultaneous Polysomnography and Cardiotocography Reveal Temporal Correlation Between Maternal Obstructive Sleep Apnea and Fetal Hypoxia**|Jingyu Wang et.al.|[2504.13010](http://arxiv.org/abs/2504.13010)|null|
 |**2025-04-16**|**ProvSQL: A General System for Keeping Track of the Provenance and Probability of Data**|Aryak Sen et.al.|[2504.12058](http://arxiv.org/abs/2504.12058)|null|
 |**2025-04-15**|**Design and Verification of a Synchronus First In First Out (FIFO)**|Yatheeswar Penta et.al.|[2504.10901](http://arxiv.org/abs/2504.10901)|null|
 |**2025-04-14**|**Towards Low-Latency Event-based Obstacle Avoidance on a FPGA-Drone**|Pietro Bonazzi et.al.|[2504.10400](http://arxiv.org/abs/2504.10400)|null|
