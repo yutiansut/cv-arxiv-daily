@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.19
+## Updated on 2025.04.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## quant
@@ -14,7 +14,7 @@ layout: default
 |**2025-04-17**|**ViTa-Zero: Zero-shot Visuotactile Object 6D Pose Estimation**|Hongyu Li et.al.|[2504.13179](http://arxiv.org/abs/2504.13179)|null|
 |**2025-04-17**|**Aligning Constraint Generation with Design Intent in Parametric CAD**|Evan Casey et.al.|[2504.13178](http://arxiv.org/abs/2504.13178)|null|
 |**2025-04-17**|**Single-Shot Shape and Reflectance with Spatial Polarization Multiplexing**|Tomoki Ichikawa et.al.|[2504.13177](http://arxiv.org/abs/2504.13177)|null|
-|**2025-04-17**|**IMAGGarment-1: Fine-Grained Garment Generation for Controllable Fashion Design**|Fei Shen et.al.|[2504.13176](http://arxiv.org/abs/2504.13176)|null|
+|**2025-04-17**|**IMAGGarment-1: Fine-Grained Garment Generation for Controllable Fashion Design**|Fei Shen et.al.|[2504.13176](http://arxiv.org/abs/2504.13176)|**[link](https://github.com/muzishen/imaggarment-1)**|
 |**2025-04-17**|**Novel Demonstration Generation with Gaussian Splatting Enables Robust One-Shot Manipulation**|Sizhe Yang et.al.|[2504.13175](http://arxiv.org/abs/2504.13175)|null|
 |**2025-04-17**|**Quantum algorithm for solving nonlinear differential equations based on physics-informed effective Hamiltonians**|Hsin-Yu Wu et.al.|[2504.13174](http://arxiv.org/abs/2504.13174)|null|
 |**2025-04-17**|**It's All Connected: A Journey Through Test-Time Memorization, Attentional Bias, Retention, and Online Optimization**|Ali Behrouz et.al.|[2504.13173](http://arxiv.org/abs/2504.13173)|null|
@@ -317,7 +317,7 @@ layout: default
 |**2025-04-17**|**Simultaneous Polysomnography and Cardiotocography Reveal Temporal Correlation Between Maternal Obstructive Sleep Apnea and Fetal Hypoxia**|Jingyu Wang et.al.|[2504.13010](http://arxiv.org/abs/2504.13010)|null|
 |**2025-04-16**|**ProvSQL: A General System for Keeping Track of the Provenance and Probability of Data**|Aryak Sen et.al.|[2504.12058](http://arxiv.org/abs/2504.12058)|null|
 |**2025-04-15**|**Design and Verification of a Synchronus First In First Out (FIFO)**|Yatheeswar Penta et.al.|[2504.10901](http://arxiv.org/abs/2504.10901)|null|
-|**2025-04-14**|**Towards Low-Latency Event-based Obstacle Avoidance on a FPGA-Drone**|Pietro Bonazzi et.al.|[2504.10400](http://arxiv.org/abs/2504.10400)|null|
+|**2025-04-14**|**Towards Low-Latency Event-based Obstacle Avoidance on a FPGA-Drone**|Pietro Bonazzi et.al.|[2504.10400](http://arxiv.org/abs/2504.10400)|**[link](https://github.com/pbonazzi/eva)**|
 |**2025-04-14**|**Modelling & Steady State Compliance Testing of an Improved Time Synchronized Phasor Measurement Unit Based on IEEE Standard C37.118.1**|Nisarg Trivedi et.al.|[2504.09883](http://arxiv.org/abs/2504.09883)|null|
 |**2025-04-10**|**Quasi-Periodic Pulsations in Ionospheric TEC Synchronized with Solar Flare EUV Emission**|Aisling N. O'Hare et.al.|[2504.07714](http://arxiv.org/abs/2504.07714)|null|
 |**2025-04-10**|**Exploiting Beamforming for Enforcing Semantic Secrecy in 5G NR mmWave Communications**|Luis Torres-Figueroa et.al.|[2504.07678](http://arxiv.org/abs/2504.07678)|null|
