@@ -13,11 +13,11 @@ layout: default
 |**2025-04-18**|**Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?**|Yang Yue et.al.|[2504.13837](http://arxiv.org/abs/2504.13837)|null|
 |**2025-04-18**|**Outlier-Robust Multi-Model Fitting on Quantum Annealers**|Saurabh Pandey et.al.|[2504.13836](http://arxiv.org/abs/2504.13836)|null|
 |**2025-04-18**|**MIG: Automatic Data Selection for Instruction Tuning by Maximizing Information Gain in Semantic Space**|Yicheng Chen et.al.|[2504.13835](http://arxiv.org/abs/2504.13835)|null|
-|**2025-04-18**|**Science Hierarchography: Hierarchical Organization of Science Literature**|Muhan Gao et.al.|[2504.13834](http://arxiv.org/abs/2504.13834)|null|
+|**2025-04-18**|**Science Hierarchography: Hierarchical Organization of Science Literature**|Muhan Gao et.al.|[2504.13834](http://arxiv.org/abs/2504.13834)|**[link](https://github.com/jhu-clsp/science-hierarchography)**|
 |**2025-04-18**|**Strict increase in the number of normally hyperbolic limit tori in 3D polynomial vector fields**|Lucas Queiroz Arakaki et.al.|[2504.13832](http://arxiv.org/abs/2504.13832)|null|
 |**2025-04-18**|**On Refined Vogel's universality**|Liudmila Bishler et.al.|[2504.13831](http://arxiv.org/abs/2504.13831)|null|
 |**2025-04-18**|**Quasi-Keplerian parametrization for compact binaries on hyperbolic orbits in scalar-tensor theories at second post-Newtonian order**|Davide Usseglio et.al.|[2504.13829](http://arxiv.org/abs/2504.13829)|null|
-|**2025-04-18**|**Generative AI Act II: Test Time Scaling Drives Cognition Engineering**|Shijie Xia et.al.|[2504.13828](http://arxiv.org/abs/2504.13828)|null|
+|**2025-04-18**|**Generative AI Act II: Test Time Scaling Drives Cognition Engineering**|Shijie Xia et.al.|[2504.13828](http://arxiv.org/abs/2504.13828)|**[link](https://github.com/gair-nlp/cognition-engineering)**|
 |**2025-04-18**|**Extracting the chiral anomaly from $e^+e^-\to 3π$**|Martin Hoferichter et.al.|[2504.13827](http://arxiv.org/abs/2504.13827)|null|
 |**2025-04-17**|**Perception Encoder: The best visual embeddings are not at the output of the network**|Daniel Bolya et.al.|[2504.13181](http://arxiv.org/abs/2504.13181)|null|
 |**2025-04-17**|**PerceptionLM: Open-Access Data and Models for Detailed Visual Understanding**|Jang Hyun Cho et.al.|[2504.13180](http://arxiv.org/abs/2504.13180)|null|
