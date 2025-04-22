@@ -1,4 +1,4 @@
-## Updated on 2025.04.21
+## Updated on 2025.04.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-18**|**Audit Cards: Contextualizing AI Evaluations**|Leon Staufer et.al.|[2504.13839](http://arxiv.org/abs/2504.13839)|null|
+|**2025-04-18**|**Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?**|Yang Yue et.al.|[2504.13837](http://arxiv.org/abs/2504.13837)|null|
+|**2025-04-18**|**Outlier-Robust Multi-Model Fitting on Quantum Annealers**|Saurabh Pandey et.al.|[2504.13836](http://arxiv.org/abs/2504.13836)|null|
+|**2025-04-18**|**MIG: Automatic Data Selection for Instruction Tuning by Maximizing Information Gain in Semantic Space**|Yicheng Chen et.al.|[2504.13835](http://arxiv.org/abs/2504.13835)|null|
+|**2025-04-18**|**Science Hierarchography: Hierarchical Organization of Science Literature**|Muhan Gao et.al.|[2504.13834](http://arxiv.org/abs/2504.13834)|null|
+|**2025-04-18**|**Strict increase in the number of normally hyperbolic limit tori in 3D polynomial vector fields**|Lucas Queiroz Arakaki et.al.|[2504.13832](http://arxiv.org/abs/2504.13832)|null|
+|**2025-04-18**|**On Refined Vogel's universality**|Liudmila Bishler et.al.|[2504.13831](http://arxiv.org/abs/2504.13831)|null|
+|**2025-04-18**|**Quasi-Keplerian parametrization for compact binaries on hyperbolic orbits in scalar-tensor theories at second post-Newtonian order**|Davide Usseglio et.al.|[2504.13829](http://arxiv.org/abs/2504.13829)|null|
+|**2025-04-18**|**Generative AI Act II: Test Time Scaling Drives Cognition Engineering**|Shijie Xia et.al.|[2504.13828](http://arxiv.org/abs/2504.13828)|null|
+|**2025-04-18**|**Extracting the chiral anomaly from $e^+e^-\to 3π$**|Martin Hoferichter et.al.|[2504.13827](http://arxiv.org/abs/2504.13827)|null|
 |**2025-04-17**|**Perception Encoder: The best visual embeddings are not at the output of the network**|Daniel Bolya et.al.|[2504.13181](http://arxiv.org/abs/2504.13181)|null|
 |**2025-04-17**|**PerceptionLM: Open-Access Data and Models for Detailed Visual Understanding**|Jang Hyun Cho et.al.|[2504.13180](http://arxiv.org/abs/2504.13180)|null|
 |**2025-04-17**|**ViTa-Zero: Zero-shot Visuotactile Object 6D Pose Estimation**|Hongyu Li et.al.|[2504.13179](http://arxiv.org/abs/2504.13179)|null|
@@ -314,7 +324,7 @@
 |**2025-03-06**|**Floxels: Fast Unsupervised Voxel Based Scene Flow Estimation**|David T. Hoffmann et.al.|[2503.04718](http://arxiv.org/abs/2503.04718)|null|
 |**2025-03-06**|**MIGHTEE: exploring the relationship between spectral index, redshift and radio luminosity**|Siddhant Pinjarkar et.al.|[2503.04717](http://arxiv.org/abs/2503.04717)|null|
 
-<p align=right>(<a href=#updated-on-20250421>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250422>back to top</a>)</p>
 
 ## 低延迟交易
 
@@ -374,7 +384,7 @@
 |**2025-02-27**|**Wildcat: Educational RISC-V Microprocessors**|Martin Schoeberl et.al.|[2502.20197](http://arxiv.org/abs/2502.20197)|**[link](https://github.com/schoeberl/wildcat)**|
 |**2025-02-27**|**FPGA-Accelerated SpeckleNN with SNL for Real-time X-ray Single-Particle Imaging**|Abhilasha Dave et.al.|[2502.19734](http://arxiv.org/abs/2502.19734)|null|
 
-<p align=right>(<a href=#updated-on-20250421>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250422>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
