@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2025.04.24
+## Updated on 2025.04.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## quant
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-23**|**Dispu $τ$ able: the high cost of a low optical depth**|Noah Sailer et.al.|[2504.16932](http://arxiv.org/abs/2504.16932)|null|
+|**2025-04-23**|**Lattice study of $cc\bar u\bar s$ tetraquark channel in $D^{(*)}D^{(*)}_s$ scattering**|Tanishk Shrimal et.al.|[2504.16931](http://arxiv.org/abs/2504.16931)|null|
+|**2025-04-23**|**Procedural Dataset Generation for Zero-Shot Stereo Matching**|David Yan et.al.|[2504.16930](http://arxiv.org/abs/2504.16930)|null|
+|**2025-04-23**|**I-Con: A Unifying Framework for Representation Learning**|Shaden Alshammari et.al.|[2504.16929](http://arxiv.org/abs/2504.16929)|null|
+|**2025-04-23**|**Enhancing high-order harmonic generation in two-color laser fields: A comparison of single- and two-color schemes**|Jan Troß et.al.|[2504.16928](http://arxiv.org/abs/2504.16928)|null|
+|**2025-04-23**|**Year six photometric measurements of known Trans-Neptunian Objects and Centaurs by the Dark Energy Survey**|Feliphe S. Ferreira et.al.|[2504.16927](http://arxiv.org/abs/2504.16927)|null|
+|**2025-04-23**|**Meteor CNEOS 2014-01-08 has nothing to do with Planet 9**|Sigurd Naess et.al.|[2504.16926](http://arxiv.org/abs/2504.16926)|null|
+|**2025-04-23**|**Latent Diffusion Planning for Imitation Learning**|Amber Xie et.al.|[2504.16925](http://arxiv.org/abs/2504.16925)|null|
+|**2025-04-23**|**Ultradense Sphere Packings Derived From Disordered Stealthy Hyperuniform Ground States**|Jaeuk Kim et.al.|[2504.16924](http://arxiv.org/abs/2504.16924)|null|
+|**2025-04-23**|**Meta-Learning Online Dynamics Model Adaptation in Off-Road Autonomous Driving**|Jacob Levy et.al.|[2504.16923](http://arxiv.org/abs/2504.16923)|null|
 |**2025-04-22**|**TTRL: Test-Time Reinforcement Learning**|Yuxin Zuo et.al.|[2504.16084](http://arxiv.org/abs/2504.16084)|null|
 |**2025-04-22**|**MMInference: Accelerating Pre-filling for Long-Context VLMs via Modality-Aware Permutation Sparse Attention**|Yucheng Li et.al.|[2504.16083](http://arxiv.org/abs/2504.16083)|null|
 |**2025-04-22**|**MR. Video: "MapReduce" is the Principle for Long Video Understanding**|Ziqi Pang et.al.|[2504.16082](http://arxiv.org/abs/2504.16082)|null|
