@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2025.04.25
+## Updated on 2025.04.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## quant
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-24**|**LiDPM: Rethinking Point Diffusion for Lidar Scene Completion**|Tetiana Martyniuk et.al.|[2504.17791](http://arxiv.org/abs/2504.17791)|null|
+|**2025-04-24**|**Quantum Error Correction with Girth-16 Non-Binary LDPC Codes via Affine Permutation Construction**|Kenta Kasai et.al.|[2504.17790](http://arxiv.org/abs/2504.17790)|null|
+|**2025-04-24**|**Token-Shuffle: Towards High-Resolution Image Generation with Autoregressive Models**|Xu Ma et.al.|[2504.17789](http://arxiv.org/abs/2504.17789)|null|
+|**2025-04-24**|**Dynamic Camera Poses and Where to Find Them**|Chris Rockwell et.al.|[2504.17788](http://arxiv.org/abs/2504.17788)|null|
+|**2025-04-24**|**The Fourth Monocular Depth Estimation Challenge**|Anton Obukhov et.al.|[2504.17787](http://arxiv.org/abs/2504.17787)|null|
+|**2025-04-24**|**Silenzio: Secure Non-Interactive Outsourced MLP Training**|Jonas Sander et.al.|[2504.17785](http://arxiv.org/abs/2504.17785)|null|
+|**2025-04-24**|**Gripper Keypose and Object Pointflow as Interfaces for Bimanual Robotic Manipulation**|Yuyin Yang et.al.|[2504.17784](http://arxiv.org/abs/2504.17784)|null|
+|**2025-04-24**|**Nanoscale infrared and microwave imaging of stacking faults in multilayer graphene**|Ludwig Holleis et.al.|[2504.17783](http://arxiv.org/abs/2504.17783)|null|
+|**2025-04-24**|**Unleashing the Power of Natural Audio Featuring Multiple Sound Sources**|Xize Cheng et.al.|[2504.17782](http://arxiv.org/abs/2504.17782)|null|
+|**2025-04-24**|**Thermal Product Formula for Shear Modes**|Jyotirmoy Bhattacharya et.al.|[2504.17781](http://arxiv.org/abs/2504.17781)|null|
 |**2025-04-23**|**Dispu $τ$ able: the high cost of a low optical depth**|Noah Sailer et.al.|[2504.16932](http://arxiv.org/abs/2504.16932)|null|
 |**2025-04-23**|**Lattice study of $cc\bar u\bar s$ tetraquark channel in $D^{(*)}D^{(*)}_s$ scattering**|Tanishk Shrimal et.al.|[2504.16931](http://arxiv.org/abs/2504.16931)|null|
 |**2025-04-23**|**Procedural Dataset Generation for Zero-Shot Stereo Matching**|David Yan et.al.|[2504.16930](http://arxiv.org/abs/2504.16930)|null|
@@ -354,6 +364,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-24**|**DTECM: Digital Twin Enabled Channel Measurement and Modeling in Terahertz Urban Macrocell**|Yuanbo Li et.al.|[2504.17673](http://arxiv.org/abs/2504.17673)|null|
+|**2025-04-24**|**On-Device Qwen2.5: Efficient LLM Inference with Model Compression and Hardware Acceleration**|Maoyang Xiang et.al.|[2504.17376](http://arxiv.org/abs/2504.17376)|null|
+|**2025-04-24**|**An Extensible Software Transport Layer for GPU Networking**|Yang Zhou et.al.|[2504.17307](http://arxiv.org/abs/2504.17307)|null|
 |**2025-04-22**|**LLMs are Greedy Agents: Effects of RL Fine-tuning on Decision-Making Abilities**|Thomas Schmied et.al.|[2504.16078](http://arxiv.org/abs/2504.16078)|null|
 |**2025-04-21**|**ColBERT-serve: Efficient Multi-Stage Memory-Mapped Scoring**|Kaili Huang et.al.|[2504.14903](http://arxiv.org/abs/2504.14903)|null|
 |**2025-04-21**|**Hardware-based Heterogeneous Memory Management for Large Language Model Inference**|Soojin Hwang et.al.|[2504.14893](http://arxiv.org/abs/2504.14893)|null|
