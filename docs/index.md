@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2025.04.28
+## Updated on 2025.04.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## quant
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-25**|**Generalization Capability for Imitation Learning**|Yixiao Wang et.al.|[2504.18538](http://arxiv.org/abs/2504.18538)|null|
+|**2025-04-25**|**Renormalizing Two-Fermion Operators in the SMEFT via Supergeometry**|Benoît Assi et.al.|[2504.18537](http://arxiv.org/abs/2504.18537)|null|
+|**2025-04-25**|**Adapting Probabilistic Risk Assessment for AI**|Anna Katariina Wisakanto et.al.|[2504.18536](http://arxiv.org/abs/2504.18536)|null|
+|**2025-04-25**|**TRACE Back from the Future: A Probabilistic Reasoning Approach to Controllable Language Generation**|Gwen Yidou Weng et.al.|[2504.18535](http://arxiv.org/abs/2504.18535)|null|
+|**2025-04-25**|**First upper limits on the 21-cm signal power spectrum of neutral hydrogen at $z=9.16$ from the LOFAR 3C196 field**|E. Ceccotti et.al.|[2504.18534](http://arxiv.org/abs/2504.18534)|null|
+|**2025-04-25**|**Expository article: "Bounded orthogonal systems and the $Λ(p)$ -set problem'' by Jean Bourgain**|Hongki Jung et.al.|[2504.18533](http://arxiv.org/abs/2504.18533)|null|
+|**2025-04-25**|**Four Elements to Rule Them All: Abundances are Rigidly Coupled in the Milky Way Disk**|Jennifer Mead et.al.|[2504.18532](http://arxiv.org/abs/2504.18532)|null|
+|**2025-04-25**|**Comment on "Superconductivity and Mott Physics in Organic Charge Transfer Materials"**|Rupali Jindal et.al.|[2504.18531](http://arxiv.org/abs/2504.18531)|null|
+|**2025-04-25**|**Scaling Laws For Scalable Oversight**|Joshua Engels et.al.|[2504.18530](http://arxiv.org/abs/2504.18530)|null|
+|**2025-04-25**|**Practical Type-Based Taint Checking and Inference (Extended Version)**|Nima Karimipour et.al.|[2504.18529](http://arxiv.org/abs/2504.18529)|null|
 |**2025-04-24**|**LiDPM: Rethinking Point Diffusion for Lidar Scene Completion**|Tetiana Martyniuk et.al.|[2504.17791](http://arxiv.org/abs/2504.17791)|null|
 |**2025-04-24**|**Quantum Error Correction with Girth-16 Non-Binary LDPC Codes via Affine Permutation Construction**|Kenta Kasai et.al.|[2504.17790](http://arxiv.org/abs/2504.17790)|null|
 |**2025-04-24**|**Token-Shuffle: Towards High-Resolution Image Generation with Autoregressive Models**|Xu Ma et.al.|[2504.17789](http://arxiv.org/abs/2504.17789)|null|
@@ -364,6 +374,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-25**|**Boxi: Design Decisions in the Context of Algorithmic Performance for Robotics**|Jonas Frey et.al.|[2504.18500](http://arxiv.org/abs/2504.18500)|null|
+|**2025-04-25**|**FlexiNS: A SmartNIC-Centric, Line-Rate and Flexible Network Stack**|Xuzheng Chen et.al.|[2504.18432](http://arxiv.org/abs/2504.18432)|null|
 |**2025-04-24**|**DTECM: Digital Twin Enabled Channel Measurement and Modeling in Terahertz Urban Macrocell**|Yuanbo Li et.al.|[2504.17673](http://arxiv.org/abs/2504.17673)|null|
 |**2025-04-24**|**On-Device Qwen2.5: Efficient LLM Inference with Model Compression and Hardware Acceleration**|Maoyang Xiang et.al.|[2504.17376](http://arxiv.org/abs/2504.17376)|null|
 |**2025-04-24**|**An Extensible Software Transport Layer for GPU Networking**|Yang Zhou et.al.|[2504.17307](http://arxiv.org/abs/2504.17307)|null|
