@@ -1,4 +1,4 @@
-## Updated on 2025.04.29
+## Updated on 2025.04.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-28**|**On the Properties of Cosmological Ionization Fronts**|Hanjue Zhu et.al.|[2504.20046](http://arxiv.org/abs/2504.20046)|null|
+|**2025-04-28**|**How Charged Can Neutrinos Be?**|Sudip Jana et.al.|[2504.20044](http://arxiv.org/abs/2504.20044)|null|
+|**2025-04-28**|**Starlight from JWST: Implications for star formation and dark matter models**|John Ellis et.al.|[2504.20043](http://arxiv.org/abs/2504.20043)|null|
+|**2025-04-28**|**CompleteMe: Reference-based Human Image Completion**|Yu-Ju Tsai et.al.|[2504.20042](http://arxiv.org/abs/2504.20042)|null|
+|**2025-04-28**|**Learning Streaming Video Representation via Multitask Training**|Yibin Yan et.al.|[2504.20041](http://arxiv.org/abs/2504.20041)|null|
+|**2025-04-28**|**MP-SfM: Monocular Surface Priors for Robust Structure-from-Motion**|Zador Pataki et.al.|[2504.20040](http://arxiv.org/abs/2504.20040)|null|
+|**2025-04-28**|**AutoJudge: Judge Decoding Without Manual Annotation**|Roman Garipov et.al.|[2504.20039](http://arxiv.org/abs/2504.20039)|null|
+|**2025-04-28**|**Unified and consistent structure growth measurements from joint ACT, SPT and \textit{Planck} CMB lensing**|Frank J. Qu et.al.|[2504.20038](http://arxiv.org/abs/2504.20038)|null|
+|**2025-04-28**|**exoALMA. VI. Rotating under Pressure: Rotation curves, azimuthal velocity substructures, and pressure variations**|Jochen Stadler et.al.|[2504.20036](http://arxiv.org/abs/2504.20036)|null|
+|**2025-04-28**|**Cam-2-Cam: Exploring the Design Space of Dual-Camera Interactions for Smartphone-based Augmented Reality**|Brandon Woodard et.al.|[2504.20035](http://arxiv.org/abs/2504.20035)|null|
 |**2025-04-25**|**Generalization Capability for Imitation Learning**|Yixiao Wang et.al.|[2504.18538](http://arxiv.org/abs/2504.18538)|null|
 |**2025-04-25**|**Renormalizing Two-Fermion Operators in the SMEFT via Supergeometry**|Benoît Assi et.al.|[2504.18537](http://arxiv.org/abs/2504.18537)|null|
 |**2025-04-25**|**Adapting Probabilistic Risk Assessment for AI**|Anna Katariina Wisakanto et.al.|[2504.18536](http://arxiv.org/abs/2504.18536)|null|
@@ -374,12 +384,15 @@
 |**2025-03-06**|**Floxels: Fast Unsupervised Voxel Based Scene Flow Estimation**|David T. Hoffmann et.al.|[2503.04718](http://arxiv.org/abs/2503.04718)|null|
 |**2025-03-06**|**MIGHTEE: exploring the relationship between spectral index, redshift and radio luminosity**|Siddhant Pinjarkar et.al.|[2503.04717](http://arxiv.org/abs/2503.04717)|null|
 
-<p align=right>(<a href=#updated-on-20250429>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250430>back to top</a>)</p>
 
 ## 低延迟交易
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-27**|**Adaptra: Straggler-Resilient Hybrid-Parallel Training with Pipeline Adaptation**|Tianyuan Wu et.al.|[2504.19232](http://arxiv.org/abs/2504.19232)|null|
+|**2025-04-27**|**Scaling Data Center TCP to Terabits with Laminar**|Rajath Shashidhara et.al.|[2504.19058](http://arxiv.org/abs/2504.19058)|null|
+|**2025-04-25**|**Robust Push Recovery on Bipedal Robots: Leveraging Multi-Domain Hybrid Systems with Reduced-Order Model Predictive Control**|Min Dai et.al.|[2504.18698](http://arxiv.org/abs/2504.18698)|null|
 |**2025-04-25**|**Boxi: Design Decisions in the Context of Algorithmic Performance for Robotics**|Jonas Frey et.al.|[2504.18500](http://arxiv.org/abs/2504.18500)|null|
 |**2025-04-25**|**FlexiNS: A SmartNIC-Centric, Line-Rate and Flexible Network Stack**|Xuzheng Chen et.al.|[2504.18432](http://arxiv.org/abs/2504.18432)|null|
 |**2025-04-24**|**DTECM: Digital Twin Enabled Channel Measurement and Modeling in Terahertz Urban Macrocell**|Yuanbo Li et.al.|[2504.17673](http://arxiv.org/abs/2504.17673)|null|
@@ -442,7 +455,7 @@
 |**2025-02-27**|**Wildcat: Educational RISC-V Microprocessors**|Martin Schoeberl et.al.|[2502.20197](http://arxiv.org/abs/2502.20197)|**[link](https://github.com/schoeberl/wildcat)**|
 |**2025-02-27**|**FPGA-Accelerated SpeckleNN with SNL for Real-time X-ray Single-Particle Imaging**|Abhilasha Dave et.al.|[2502.19734](http://arxiv.org/abs/2502.19734)|null|
 
-<p align=right>(<a href=#updated-on-20250429>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250430>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
