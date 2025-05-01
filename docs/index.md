@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2025.04.30
+## Updated on 2025.05.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## quant
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-29**|**Two neighbours to the ultra-short-period Earth-sized planet K2-157 b in the warm Neptunian savanna**|A. Castro-González et.al.|[2504.20999](http://arxiv.org/abs/2504.20999)|null|
+|**2025-04-29**|**YoChameleon: Personalized Vision and Language Generation**|Thao Nguyen et.al.|[2504.20998](http://arxiv.org/abs/2504.20998)|null|
+|**2025-04-29**|**Toward Efficient Exploration by Large Language Model Agents**|Dilip Arumugam et.al.|[2504.20997](http://arxiv.org/abs/2504.20997)|null|
+|**2025-04-29**|**X-Fusion: Introducing New Modality to Frozen Large Language Models**|Sicheng Mo et.al.|[2504.20996](http://arxiv.org/abs/2504.20996)|null|
+|**2025-04-29**|**TesserAct: Learning 4D Embodied World Models**|Haoyu Zhen et.al.|[2504.20995](http://arxiv.org/abs/2504.20995)|null|
+|**2025-04-29**|**Cosmic superstrings in large volume compactifications: PTAs, LISA and time-varying tension**|Anish Ghoshal et.al.|[2504.20994](http://arxiv.org/abs/2504.20994)|null|
+|**2025-04-29**|**GDP-GFCF Dynamics Across Global Economies: A Comparative Study of Panel Regressions and Random Forest**|Alina Landowska et.al.|[2504.20993](http://arxiv.org/abs/2504.20993)|null|
+|**2025-04-29**|**Constraints on primordial non-Gaussianity from Quaia**|Giulio Fabbian et.al.|[2504.20992](http://arxiv.org/abs/2504.20992)|null|
+|**2025-04-29**|**Quantum Hypothesis Testing Lemma for Deterministic Identification over Quantum Channels**|Pau Colomer et.al.|[2504.20991](http://arxiv.org/abs/2504.20991)|null|
+|**2025-04-29**|**Modification of the scattering mechanisms in bilayer graphene in proximity to a molecular thin film probed in the mesoscopic regime**|Anise Mansour et.al.|[2504.20990](http://arxiv.org/abs/2504.20990)|null|
 |**2025-04-28**|**On the Properties of Cosmological Ionization Fronts**|Hanjue Zhu et.al.|[2504.20046](http://arxiv.org/abs/2504.20046)|null|
 |**2025-04-28**|**How Charged Can Neutrinos Be?**|Sudip Jana et.al.|[2504.20044](http://arxiv.org/abs/2504.20044)|null|
 |**2025-04-28**|**Starlight from JWST: Implications for star formation and dark matter models**|John Ellis et.al.|[2504.20043](http://arxiv.org/abs/2504.20043)|null|
