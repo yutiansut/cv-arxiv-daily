@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2025.05.01
+## Updated on 2025.05.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## quant
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-30**|**Holography and Causality in the Karch-Randall Braneworld**|Hao Geng et.al.|[2504.21856](http://arxiv.org/abs/2504.21856)|null|
+|**2025-04-30**|**ReVision: High-Quality, Low-Cost Video Generation with Explicit 3D Physics Modeling for Complex Motion and Interaction**|Qihao Liu et.al.|[2504.21855](http://arxiv.org/abs/2504.21855)|null|
+|**2025-05-01**|**SPARO: Surface-code Pauli-based Architectural Resource Optimization for Fault-tolerant Quantum Computing**|Shuwen Kan et.al.|[2504.21854](http://arxiv.org/abs/2504.21854)|null|
+|**2025-04-30**|**A Survey of Interactive Generative Video**|Jiwen Yu et.al.|[2504.21853](http://arxiv.org/abs/2504.21853)|null|
+|**2025-04-30**|**Polka-dotted Stars: a Hierarchical Model for Mapping Stellar Surfaces Using Occultation Light Curves and the Case of TOI-3884**|Sabina Sagynbayeva et.al.|[2504.21852](http://arxiv.org/abs/2504.21852)|null|
+|**2025-04-30**|**TRUST: An LLM-Based Dialogue System for Trauma Understanding and Structured Assessments**|Sichang Tu et.al.|[2504.21851](http://arxiv.org/abs/2504.21851)|null|
+|**2025-04-30**|**COMPACT: COMPositional Atomic-to-Complex Visual Capability Tuning**|Xindi Wu et.al.|[2504.21850](http://arxiv.org/abs/2504.21850)|null|
+|**2025-04-30**|**Public Opinion and The Rise of Digital Minds: Perceived Risk, Trust, and Regulation Support**|Justin B. Bullock et.al.|[2504.21849](http://arxiv.org/abs/2504.21849)|null|
+|**2025-04-30**|**Characterizing AI Agents for Alignment and Governance**|Atoosa Kasirzadeh et.al.|[2504.21848](http://arxiv.org/abs/2504.21848)|null|
+|**2025-04-30**|**Differentiable Room Acoustic Rendering with Multi-View Vision Priors**|Derong Jin et.al.|[2504.21847](http://arxiv.org/abs/2504.21847)|null|
 |**2025-04-29**|**Two neighbours to the ultra-short-period Earth-sized planet K2-157 b in the warm Neptunian savanna**|A. Castro-González et.al.|[2504.20999](http://arxiv.org/abs/2504.20999)|null|
 |**2025-04-29**|**YoChameleon: Personalized Vision and Language Generation**|Thao Nguyen et.al.|[2504.20998](http://arxiv.org/abs/2504.20998)|null|
 |**2025-04-29**|**Toward Efficient Exploration by Large Language Model Agents**|Dilip Arumugam et.al.|[2504.20997](http://arxiv.org/abs/2504.20997)|null|
@@ -394,6 +404,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-30**|**Coyote v2: Raising the Level of Abstraction for Data Center FPGAs**|Benjamin Ramhorst et.al.|[2504.21538](http://arxiv.org/abs/2504.21538)|null|
 |**2025-04-27**|**Adaptra: Straggler-Resilient Hybrid-Parallel Training with Pipeline Adaptation**|Tianyuan Wu et.al.|[2504.19232](http://arxiv.org/abs/2504.19232)|null|
 |**2025-04-27**|**Scaling Data Center TCP to Terabits with Laminar**|Rajath Shashidhara et.al.|[2504.19058](http://arxiv.org/abs/2504.19058)|null|
 |**2025-04-25**|**Robust Push Recovery on Bipedal Robots: Leveraging Multi-Domain Hybrid Systems with Reduced-Order Model Predictive Control**|Min Dai et.al.|[2504.18698](http://arxiv.org/abs/2504.18698)|null|
