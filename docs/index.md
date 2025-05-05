@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.04
+## Updated on 2025.05.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## quant
@@ -14,8 +14,8 @@ layout: default
 |**2025-05-01**|**RayZer: A Self-supervised Large View Synthesis Model**|Hanwen Jiang et.al.|[2505.00702](http://arxiv.org/abs/2505.00702)|null|
 |**2025-05-01**|**A log-depth in-place quantum Fourier transform that rarely needs ancillas**|Gregory D. Kahanamoku-Meyer et.al.|[2505.00701](http://arxiv.org/abs/2505.00701)|null|
 |**2025-05-01**|**Luminosity Function of collapsar Gamma-Ray Bursts:the Progenitor of Long Gamma-Ray Bursts Is Not Singular**|Yan-Kun Qu et.al.|[2505.00700](http://arxiv.org/abs/2505.00700)|null|
-|**2025-05-01**|**Comprehensive Study on Heisenberg-limited Quantum Algorithms for Multiple Observables Estimation**|Yuki Koizumi et.al.|[2505.00698](http://arxiv.org/abs/2505.00698)|null|
-|**2025-05-01**|**Faster Quantum Algorithm for Multiple Observables Estimation in Fermionic Problems**|Yuki Koizumi et.al.|[2505.00697](http://arxiv.org/abs/2505.00697)|null|
+|**2025-05-02**|**Comprehensive Study on Heisenberg-limited Quantum Algorithms for Multiple Observables Estimation**|Yuki Koizumi et.al.|[2505.00698](http://arxiv.org/abs/2505.00698)|null|
+|**2025-05-02**|**Faster Quantum Algorithm for Multiple Observables Estimation in Fermionic Problems**|Yuki Koizumi et.al.|[2505.00697](http://arxiv.org/abs/2505.00697)|null|
 |**2025-05-01**|**Simple Holography in General Spacetimes**|Raphael Bousso et.al.|[2505.00695](http://arxiv.org/abs/2505.00695)|null|
 |**2025-05-01**|**Robotic Visual Instruction**|Yanbang Li et.al.|[2505.00693](http://arxiv.org/abs/2505.00693)|null|
 |**2025-05-01**|**Physical Limits and Optimal Synthesis of Beyond Diagonal Anomalous Scatterers**|Mats Gustafsson et.al.|[2505.00691](http://arxiv.org/abs/2505.00691)|null|
