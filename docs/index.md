@@ -21,7 +21,7 @@ layout: default
 |**2025-05-06**|**Visual Imitation Enables Contextual Humanoid Control**|Arthur Allshire et.al.|[2505.03729](http://arxiv.org/abs/2505.03729)|null|
 |**2025-05-05**|**Pauli crystal superradiance**|Daniel Ortuño-Gonzalez et.al.|[2505.02837](http://arxiv.org/abs/2505.02837)|null|
 |**2025-05-05**|**Scenethesis: A Language and Vision Agentic Framework for 3D Scene Generation**|Lu Ling et.al.|[2505.02836](http://arxiv.org/abs/2505.02836)|null|
-|**2025-05-05**|**R1-Reward: Training Multimodal Reward Model Through Stable Reinforcement Learning**|Yi-Fan Zhang et.al.|[2505.02835](http://arxiv.org/abs/2505.02835)|null|
+|**2025-05-05**|**R1-Reward: Training Multimodal Reward Model Through Stable Reinforcement Learning**|Yi-Fan Zhang et.al.|[2505.02835](http://arxiv.org/abs/2505.02835)|**[link](https://github.com/yfzhang114/r1_reward)**|
 |**2025-05-05**|**What is a Gaussian channel, and when is it physically implementable using a multiport interferometer?**|Repana Devendra et.al.|[2505.02834](http://arxiv.org/abs/2505.02834)|null|
 |**2025-05-05**|**TWIST: Teleoperated Whole-Body Imitation System**|Yanjie Ze et.al.|[2505.02833](http://arxiv.org/abs/2505.02833)|null|
 |**2025-05-05**|**The Rapidly--Changing Period of the QPE Source 1ES~1927+654**|Andrew King et.al.|[2505.02832](http://arxiv.org/abs/2505.02832)|null|
@@ -40,7 +40,7 @@ layout: default
 |**2025-05-02**|**Redundancy analysis using lcm-filtrations: networks, system signature and sensitivity evaluation**|Fatemeh Mohammadi et.al.|[2505.01416](http://arxiv.org/abs/2505.01416)|null|
 |**2025-05-02**|**How Effective are Large Time Series Models in Hydrology? A Study on Water Level Forecasting in Everglades**|Rahuul Rangaraj et.al.|[2505.01415](http://arxiv.org/abs/2505.01415)|null|
 |**2025-05-01**|**Controllable Weather Synthesis and Removal with Video Diffusion Models**|Chih-Hao Lin et.al.|[2505.00704](http://arxiv.org/abs/2505.00704)|null|
-|**2025-05-01**|**T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level and Token-level CoT**|Dongzhi Jiang et.al.|[2505.00703](http://arxiv.org/abs/2505.00703)|null|
+|**2025-05-01**|**T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level and Token-level CoT**|Dongzhi Jiang et.al.|[2505.00703](http://arxiv.org/abs/2505.00703)|**[link](https://github.com/caraj7/t2i-r1)**|
 |**2025-05-01**|**RayZer: A Self-supervised Large View Synthesis Model**|Hanwen Jiang et.al.|[2505.00702](http://arxiv.org/abs/2505.00702)|null|
 |**2025-05-01**|**A log-depth in-place quantum Fourier transform that rarely needs ancillas**|Gregory D. Kahanamoku-Meyer et.al.|[2505.00701](http://arxiv.org/abs/2505.00701)|null|
 |**2025-05-01**|**Luminosity Function of collapsar Gamma-Ray Bursts:the Progenitor of Long Gamma-Ray Bursts Is Not Singular**|Yan-Kun Qu et.al.|[2505.00700](http://arxiv.org/abs/2505.00700)|null|
@@ -221,7 +221,7 @@ layout: default
 |**2025-04-08**|**Two-Dimensional Ferroelectric Altermagnets: From Model to Material Realization**|Ziye Zhu et.al.|[2504.06258](http://arxiv.org/abs/2504.06258)|null|
 |**2025-04-07**|**CREA: A Collaborative Multi-Agent Framework for Creative Content Generation with Diffusion Models**|Kavana Venkatesh et.al.|[2504.05306](http://arxiv.org/abs/2504.05306)|null|
 |**2025-04-07**|**URECA: Unique Region Caption Anything**|Sangbeom Lim et.al.|[2504.05305](http://arxiv.org/abs/2504.05305)|null|
-|**2025-04-07**|**Gaussian Mixture Flow Matching Models**|Hansheng Chen et.al.|[2504.05304](http://arxiv.org/abs/2504.05304)|null|
+|**2025-04-07**|**Gaussian Mixture Flow Matching Models**|Hansheng Chen et.al.|[2504.05304](http://arxiv.org/abs/2504.05304)|**[link](https://github.com/lakonik/gmflow)**|
 |**2025-04-07**|**InteractVLM: 3D Interaction Reasoning from 2D Foundational Models**|Sai Kumar Dwivedi et.al.|[2504.05303](http://arxiv.org/abs/2504.05303)|**[link](https://github.com/saidwivedi/InteractVLM)**|
 |**2025-04-07**|**S^4M: Boosting Semi-Supervised Instance Segmentation with SAM**|Heeji Yoon et.al.|[2504.05301](http://arxiv.org/abs/2504.05301)|null|
 |**2025-04-07**|**Dimension-Free Convergence of Diffusion Models for Approximate Gaussian Mixtures**|Gen Li et.al.|[2504.05300](http://arxiv.org/abs/2504.05300)|null|
