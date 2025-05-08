@@ -1,4 +1,4 @@
-## Updated on 2025.05.07
+## Updated on 2025.05.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-06**|**VITA-Audio: Fast Interleaved Cross-Modal Token Generation for Efficient Large Speech-Language Model**|Zuwei Long et.al.|[2505.03739](http://arxiv.org/abs/2505.03739)|**[link](https://github.com/vita-mllm/vita-audio)**|
+|**2025-05-06**|**AMO: Adaptive Motion Optimization for Hyper-Dexterous Humanoid Whole-Body Control**|Jialong Li et.al.|[2505.03738](http://arxiv.org/abs/2505.03738)|null|
+|**2025-05-06**|**Impact of Galactic non-Gaussian foregrounds on CMB lensing measurements**|Irene Abril-Cabezas et.al.|[2505.03737](http://arxiv.org/abs/2505.03737)|null|
+|**2025-05-06**|**Decentralized Nonconvex Optimization under Heavy-Tailed Noise: Normalization and Optimal Convergence**|Shuhua Yu et.al.|[2505.03736](http://arxiv.org/abs/2505.03736)|null|
+|**2025-05-06**|**Multi-Agent System for Comprehensive Soccer Understanding**|Jiayuan Rao et.al.|[2505.03735](http://arxiv.org/abs/2505.03735)|null|
+|**2025-05-06**|**Highly squeezed nanophotonic quantum microcombs with broadband frequency tunability**|Yichen Shen et.al.|[2505.03734](http://arxiv.org/abs/2505.03734)|null|
+|**2025-05-06**|**WebGen-Bench: Evaluating LLMs on Generating Interactive and Functional Websites from Scratch**|Zimu Lu et.al.|[2505.03733](http://arxiv.org/abs/2505.03733)|null|
+|**2025-05-06**|**A Communication-First Account of Explanation**|Jacqueline Harding et.al.|[2505.03732](http://arxiv.org/abs/2505.03732)|null|
+|**2025-05-06**|**FlexiAct: Towards Flexible Action Control in Heterogeneous Scenarios**|Shiyi Zhang et.al.|[2505.03730](http://arxiv.org/abs/2505.03730)|null|
+|**2025-05-06**|**Visual Imitation Enables Contextual Humanoid Control**|Arthur Allshire et.al.|[2505.03729](http://arxiv.org/abs/2505.03729)|null|
 |**2025-05-05**|**Pauli crystal superradiance**|Daniel Ortuño-Gonzalez et.al.|[2505.02837](http://arxiv.org/abs/2505.02837)|null|
 |**2025-05-05**|**Scenethesis: A Language and Vision Agentic Framework for 3D Scene Generation**|Lu Ling et.al.|[2505.02836](http://arxiv.org/abs/2505.02836)|null|
 |**2025-05-05**|**R1-Reward: Training Multimodal Reward Model Through Stable Reinforcement Learning**|Yi-Fan Zhang et.al.|[2505.02835](http://arxiv.org/abs/2505.02835)|null|
@@ -434,12 +444,13 @@
 |**2025-03-06**|**Floxels: Fast Unsupervised Voxel Based Scene Flow Estimation**|David T. Hoffmann et.al.|[2503.04718](http://arxiv.org/abs/2503.04718)|null|
 |**2025-03-06**|**MIGHTEE: exploring the relationship between spectral index, redshift and radio luminosity**|Siddhant Pinjarkar et.al.|[2503.04717](http://arxiv.org/abs/2503.04717)|null|
 
-<p align=right>(<a href=#updated-on-20250507>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250508>back to top</a>)</p>
 
 ## 低延迟交易
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-05**|**Generating Narrated Lecture Videos from Slides with Synchronized Highlights**|Alexander Holmberg et.al.|[2505.02966](http://arxiv.org/abs/2505.02966)|null|
 |**2025-05-02**|**BS-tree: A gapped data-parallel B-tree**|Dimitrios Tsitsigkos. Achilleas Michalopoulos et.al.|[2505.01180](http://arxiv.org/abs/2505.01180)|null|
 |**2025-04-30**|**Coyote v2: Raising the Level of Abstraction for Data Center FPGAs**|Benjamin Ramhorst et.al.|[2504.21538](http://arxiv.org/abs/2504.21538)|null|
 |**2025-04-27**|**Adaptra: Straggler-Resilient Hybrid-Parallel Training with Pipeline Adaptation**|Tianyuan Wu et.al.|[2504.19232](http://arxiv.org/abs/2504.19232)|null|
@@ -507,7 +518,7 @@
 |**2025-02-27**|**Wildcat: Educational RISC-V Microprocessors**|Martin Schoeberl et.al.|[2502.20197](http://arxiv.org/abs/2502.20197)|**[link](https://github.com/schoeberl/wildcat)**|
 |**2025-02-27**|**FPGA-Accelerated SpeckleNN with SNL for Real-time X-ray Single-Particle Imaging**|Abhilasha Dave et.al.|[2502.19734](http://arxiv.org/abs/2502.19734)|null|
 
-<p align=right>(<a href=#updated-on-20250507>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250508>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
