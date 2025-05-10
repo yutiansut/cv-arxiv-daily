@@ -1,4 +1,4 @@
-## Updated on 2025.05.09
+## Updated on 2025.05.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-08**|**SVAD: From Single Image to 3D Avatar via Synthetic Data Generation with Video Diffusion and Data Augmentation**|Yonwoo Choi et.al.|[2505.05475](http://arxiv.org/abs/2505.05475)|**[link](https://github.com/yc4ny/SVAD)**|
+|**2025-05-08**|**3D Scene Generation: A Survey**|Beichen Wen et.al.|[2505.05474](http://arxiv.org/abs/2505.05474)|**[link](https://github.com/hzxie/awesome-3d-scene-generation)**|
+|**2025-05-08**|**DiffusionSfM: Predicting Structure and Motion via Ray Origin and Endpoint Diffusion**|Qitao Zhao et.al.|[2505.05473](http://arxiv.org/abs/2505.05473)|null|
+|**2025-05-08**|**Mogao: An Omni Foundation Model for Interleaved Multi-Modal Generation**|Chao Liao et.al.|[2505.05472](http://arxiv.org/abs/2505.05472)|null|
+|**2025-05-08**|**Facets of Disparate Impact: Evaluating Legally Consistent Bias in Machine Learning**|Jarren Briscoe et.al.|[2505.05471](http://arxiv.org/abs/2505.05471)|null|
+|**2025-05-08**|**Flow-GRPO: Training Flow Matching Models via Online RL**|Jie Liu et.al.|[2505.05470](http://arxiv.org/abs/2505.05470)|**[link](https://github.com/yifan123/flow_grpo)**|
+|**2025-05-08**|**Generating Physically Stable and Buildable LEGO Designs from Text**|Ava Pun et.al.|[2505.05469](http://arxiv.org/abs/2505.05469)|null|
+|**2025-05-08**|**A Solovay-Kitaev theorem for quantum signal processing**|Zane M. Rossi et.al.|[2505.05468](http://arxiv.org/abs/2505.05468)|null|
+|**2025-05-08**|**StreamBridge: Turning Your Offline Video Large Language Model into a Proactive Streaming Assistant**|Haibo Wang et.al.|[2505.05467](http://arxiv.org/abs/2505.05467)|null|
+|**2025-05-08**|**Comparison of integral equations used to study $T_{cc}^+$**|Sebastian M. Dawid et.al.|[2505.05466](http://arxiv.org/abs/2505.05466)|null|
 |**2025-05-07**|**Is the end of Insight in Sight ?**|Jean-Michel Tucny et.al.|[2505.04627](http://arxiv.org/abs/2505.04627)|null|
 |**2025-05-07**|**Testing Thermal-Relic Dark Matter with a Dark Photon Mediator**|Gordan Krnjaic et.al.|[2505.04626](http://arxiv.org/abs/2505.04626)|null|
 |**2025-05-07**|**First Observations of Solar Halo Gamma Rays Over a Full Solar Cycle**|Tim Linden et.al.|[2505.04625](http://arxiv.org/abs/2505.04625)|null|
@@ -454,12 +464,14 @@
 |**2025-03-06**|**Floxels: Fast Unsupervised Voxel Based Scene Flow Estimation**|David T. Hoffmann et.al.|[2503.04718](http://arxiv.org/abs/2503.04718)|null|
 |**2025-03-06**|**MIGHTEE: exploring the relationship between spectral index, redshift and radio luminosity**|Siddhant Pinjarkar et.al.|[2503.04717](http://arxiv.org/abs/2503.04717)|null|
 
-<p align=right>(<a href=#updated-on-20250509>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250510>back to top</a>)</p>
 
 ## 低延迟交易
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-08**|**SDR-RDMA: Software-Defined Reliability Architecture for Planetary Scale RDMA Communication**|Mikhail Khalilov et.al.|[2505.05366](http://arxiv.org/abs/2505.05366)|null|
+|**2025-05-08**|**Experiment Study on Reference-Path-Aided System Calibration for mmWave Bistatic ISAC Systems**|Chenhao Luo et.al.|[2505.05003](http://arxiv.org/abs/2505.05003)|null|
 |**2025-05-05**|**Generating Narrated Lecture Videos from Slides with Synchronized Highlights**|Alexander Holmberg et.al.|[2505.02966](http://arxiv.org/abs/2505.02966)|null|
 |**2025-05-02**|**BS-tree: A gapped data-parallel B-tree**|Dimitrios Tsitsigkos. Achilleas Michalopoulos et.al.|[2505.01180](http://arxiv.org/abs/2505.01180)|null|
 |**2025-04-30**|**Coyote v2: Raising the Level of Abstraction for Data Center FPGAs**|Benjamin Ramhorst et.al.|[2504.21538](http://arxiv.org/abs/2504.21538)|null|
@@ -528,7 +540,7 @@
 |**2025-02-27**|**Wildcat: Educational RISC-V Microprocessors**|Martin Schoeberl et.al.|[2502.20197](http://arxiv.org/abs/2502.20197)|**[link](https://github.com/schoeberl/wildcat)**|
 |**2025-02-27**|**FPGA-Accelerated SpeckleNN with SNL for Real-time X-ray Single-Particle Imaging**|Abhilasha Dave et.al.|[2502.19734](http://arxiv.org/abs/2502.19734)|null|
 
-<p align=right>(<a href=#updated-on-20250509>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250510>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
