@@ -1,4 +1,4 @@
-## Updated on 2025.05.12
+## Updated on 2025.05.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-09**|**A Machine-Learning Compositional Study of Exoplanetary Material Accreted Onto Five Helium-Atmosphere White Dwarfs with $\texttt{cecilia}$**|Mariona Badenas-Agusti et.al.|[2505.06228](http://arxiv.org/abs/2505.06228)|null|
+|**2025-05-09**|**Anymate: A Dataset and Baselines for Learning 3D Object Rigging**|Yufan Deng et.al.|[2505.06227](http://arxiv.org/abs/2505.06227)|null|
+|**2025-05-09**|**Sweep Angle Effects of Flow Over an Undulated Cylinder**|Trevor K. Dunt et.al.|[2505.06226](http://arxiv.org/abs/2505.06226)|null|
+|**2025-05-09**|**Anomalous spin dynamics after dual optical excitation**|Sergii Parchenko et.al.|[2505.06225](http://arxiv.org/abs/2505.06225)|null|
+|**2025-05-09**|**Towards a Unified Representation Evaluation Framework Beyond Downstream Tasks**|Christos Plachouras et.al.|[2505.06224](http://arxiv.org/abs/2505.06224)|null|
+|**2025-05-09**|**A Proton Treatment Planning Method for Combining FLASH and Spatially Fractionated Radiation Therapy to Enhance Normal Tissue Protection**|Weijie Zhang et.al.|[2505.06223](http://arxiv.org/abs/2505.06223)|null|
+|**2025-05-09**|**Equalizing Closeness Centralities via Edge Additions**|Alex Crane et.al.|[2505.06222](http://arxiv.org/abs/2505.06222)|null|
+|**2025-05-09**|**Testing the Hypothesis that the Quasar J0950+5128 Harbors a Supermassive Black Hole Binary**|Niana N. Mohammed et.al.|[2505.06221](http://arxiv.org/abs/2505.06221)|null|
+|**2025-05-09**|**Hamiltonian formalism for non-diagonalisable systems of hydrodynamic type**|Paolo Lorenzoni et.al.|[2505.06220](http://arxiv.org/abs/2505.06220)|null|
+|**2025-05-09**|**VIN-NBV: A View Introspection Network for Next-Best-View Selection for Resource-Efficient 3D Reconstruction**|Noah Frahm et.al.|[2505.06219](http://arxiv.org/abs/2505.06219)|null|
 |**2025-05-08**|**SVAD: From Single Image to 3D Avatar via Synthetic Data Generation with Video Diffusion and Data Augmentation**|Yonwoo Choi et.al.|[2505.05475](http://arxiv.org/abs/2505.05475)|**[link](https://github.com/yc4ny/SVAD)**|
 |**2025-05-08**|**3D Scene Generation: A Survey**|Beichen Wen et.al.|[2505.05474](http://arxiv.org/abs/2505.05474)|**[link](https://github.com/hzxie/awesome-3d-scene-generation)**|
 |**2025-05-08**|**DiffusionSfM: Predicting Structure and Motion via Ray Origin and Endpoint Diffusion**|Qitao Zhao et.al.|[2505.05473](http://arxiv.org/abs/2505.05473)|null|
@@ -464,12 +474,13 @@
 |**2025-03-06**|**Floxels: Fast Unsupervised Voxel Based Scene Flow Estimation**|David T. Hoffmann et.al.|[2503.04718](http://arxiv.org/abs/2503.04718)|null|
 |**2025-03-06**|**MIGHTEE: exploring the relationship between spectral index, redshift and radio luminosity**|Siddhant Pinjarkar et.al.|[2503.04717](http://arxiv.org/abs/2503.04717)|null|
 
-<p align=right>(<a href=#updated-on-20250512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250513>back to top</a>)</p>
 
 ## 低延迟交易
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-09**|**Extending the Control Plane of Container Orchestrators for I/O Virtualization**|Garegin Grigoryan et.al.|[2505.06041](http://arxiv.org/abs/2505.06041)|null|
 |**2025-05-08**|**SDR-RDMA: Software-Defined Reliability Architecture for Planetary Scale RDMA Communication**|Mikhail Khalilov et.al.|[2505.05366](http://arxiv.org/abs/2505.05366)|null|
 |**2025-05-08**|**Experiment Study on Reference-Path-Aided System Calibration for mmWave Bistatic ISAC Systems**|Chenhao Luo et.al.|[2505.05003](http://arxiv.org/abs/2505.05003)|null|
 |**2025-05-05**|**Generating Narrated Lecture Videos from Slides with Synchronized Highlights**|Alexander Holmberg et.al.|[2505.02966](http://arxiv.org/abs/2505.02966)|null|
@@ -540,7 +551,7 @@
 |**2025-02-27**|**Wildcat: Educational RISC-V Microprocessors**|Martin Schoeberl et.al.|[2502.20197](http://arxiv.org/abs/2502.20197)|**[link](https://github.com/schoeberl/wildcat)**|
 |**2025-02-27**|**FPGA-Accelerated SpeckleNN with SNL for Real-time X-ray Single-Particle Imaging**|Abhilasha Dave et.al.|[2502.19734](http://arxiv.org/abs/2502.19734)|null|
 
-<p align=right>(<a href=#updated-on-20250512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250513>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
