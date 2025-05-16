@@ -29,7 +29,7 @@
 |**2025-05-13**|**Kination-like Era Driven by the Effective Inflaton/Higgs Potential**|Anish Ghoshal et.al.|[2505.08786](http://arxiv.org/abs/2505.08786)|null|
 |**2025-05-13**|**Divisible and indivisible Stochastic-Quantum dynamics**|Leandro Silva Pimenta et.al.|[2505.08785](http://arxiv.org/abs/2505.08785)|null|
 |**2025-05-13**|**PCS-UQ: Uncertainty Quantification via the Predictability-Computability-Stability Framework**|Abhineet Agarwal et.al.|[2505.08784](http://arxiv.org/abs/2505.08784)|null|
-|**2025-05-13**|**CodePDE: An Inference Framework for LLM-driven PDE Solver Generation**|Shanda Li et.al.|[2505.08783](http://arxiv.org/abs/2505.08783)|null|
+|**2025-05-13**|**CodePDE: An Inference Framework for LLM-driven PDE Solver Generation**|Shanda Li et.al.|[2505.08783](http://arxiv.org/abs/2505.08783)|**[link](https://github.com/lithiumda/codepde)**|
 |**2025-05-13**|**Addressing the Current Challenges of Quantum Machine Learning through Multi-Chip Ensembles**|Junghoon Justin Park et.al.|[2505.08782](http://arxiv.org/abs/2505.08782)|null|
 |**2025-05-13**|**Radio observations point to a moderately relativistic outflow in the fast X-ray transient EP241021a**|Muskan Yadav et.al.|[2505.08781](http://arxiv.org/abs/2505.08781)|null|
 |**2025-05-13**|**Polar motion of Venus**|PL. Phan et.al.|[2505.08780](http://arxiv.org/abs/2505.08780)|null|
@@ -38,7 +38,7 @@
 |**2025-05-12**|**DanceGRPO: Unleashing GRPO on Visual Generation**|Zeyue Xue et.al.|[2505.07818](http://arxiv.org/abs/2505.07818)|null|
 |**2025-05-12**|**Pixel Motion as Universal Representation for Robot Control**|Kanchana Ranasinghe et.al.|[2505.07817](http://arxiv.org/abs/2505.07817)|null|
 |**2025-05-12**|**Imagine, Verify, Execute: Memory-Guided Agentic Exploration with Vision-Language Models**|Seungjae Lee et.al.|[2505.07815](http://arxiv.org/abs/2505.07815)|null|
-|**2025-05-12**|**PtyRAD: A High-performance and Flexible Ptychographic Reconstruction Framework with Automatic Differentiation**|Chia-Hao Lee et.al.|[2505.07814](http://arxiv.org/abs/2505.07814)|null|
+|**2025-05-12**|**PtyRAD: A High-performance and Flexible Ptychographic Reconstruction Framework with Automatic Differentiation**|Chia-Hao Lee et.al.|[2505.07814](http://arxiv.org/abs/2505.07814)|**[link](https://github.com/chiahao3/ptyrad)**|
 |**2025-05-12**|**DexWild: Dexterous Human Interactions for In-the-Wild Robot Policies**|Tony Tao et.al.|[2505.07813](http://arxiv.org/abs/2505.07813)|null|
 |**2025-05-12**|**Continuous Visual Autoregressive Generation via Score Maximization**|Chenze Shao et.al.|[2505.07812](http://arxiv.org/abs/2505.07812)|**[link](https://github.com/shaochenze/ear)**|
 |**2025-05-12**|**Exploring Potential Higgs Resonances at 650 GeV and 95 GeV in the 2HDM Type III**|Rachid Benbrik et.al.|[2505.07811](http://arxiv.org/abs/2505.07811)|null|
