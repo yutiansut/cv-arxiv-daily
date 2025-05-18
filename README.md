@@ -19,7 +19,7 @@
 |**2025-05-15**|**Low-temperature structural instabilities of the halide double perovskite Cs $_2$AgBiBr$_6$ investigated via x-ray diffraction and infrared phonons**|Collin Tower et.al.|[2505.10563](http://arxiv.org/abs/2505.10563)|null|
 |**2025-05-15**|**End-to-End Vision Tokenizer Tuning**|Wenxuan Wang et.al.|[2505.10562](http://arxiv.org/abs/2505.10562)|null|
 |**2025-05-15**|**T2A-Feedback: Improving Basic Capabilities of Text-to-Audio Generation via Fine-grained AI Feedback**|Zehan Wang et.al.|[2505.10561](http://arxiv.org/abs/2505.10561)|null|
-|**2025-05-15**|**Approximation-First Timeseries Monitoring Query At Scale**|Zeying Zhu et.al.|[2505.10560](http://arxiv.org/abs/2505.10560)|null|
+|**2025-05-15**|**Approximation-First Timeseries Monitoring Query At Scale**|Zeying Zhu et.al.|[2505.10560](http://arxiv.org/abs/2505.10560)|**[link](https://github.com/froot-netsys/promsketch)**|
 |**2025-05-15**|**Neural Thermodynamic Laws for Large Language Model Training**|Ziming Liu et.al.|[2505.10559](http://arxiv.org/abs/2505.10559)|null|
 |**2025-05-15**|**Style Customization of Text-to-Vector Generation with Image Diffusion Priors**|Peiying Zhang et.al.|[2505.10558](http://arxiv.org/abs/2505.10558)|null|
 |**2025-05-15**|**MathCoder-VL: Bridging Vision and Code for Enhanced Multimodal Mathematical Reasoning**|Ke Wang et.al.|[2505.10557](http://arxiv.org/abs/2505.10557)|**[link](https://github.com/mathllm/mathcoder)**|
@@ -52,7 +52,7 @@
 |**2025-05-12**|**DexWild: Dexterous Human Interactions for In-the-Wild Robot Policies**|Tony Tao et.al.|[2505.07813](http://arxiv.org/abs/2505.07813)|null|
 |**2025-05-12**|**Continuous Visual Autoregressive Generation via Score Maximization**|Chenze Shao et.al.|[2505.07812](http://arxiv.org/abs/2505.07812)|**[link](https://github.com/shaochenze/ear)**|
 |**2025-05-12**|**Exploring Potential Higgs Resonances at 650 GeV and 95 GeV in the 2HDM Type III**|Rachid Benbrik et.al.|[2505.07811](http://arxiv.org/abs/2505.07811)|null|
-|**2025-05-12**|**On the arithmetic of multidimensional continued fractions**|Piotr Miska et.al.|[2505.07810](http://arxiv.org/abs/2505.07810)|null|
+|**2025-05-12**|**On the arithmetic of multidimensional continued fractions**|Piotr Miska et.al.|[2505.07810](http://arxiv.org/abs/2505.07810)|**[link](https://github.com/giulianoromeont/continued-fractions)**|
 |**2025-05-09**|**A Machine-Learning Compositional Study of Exoplanetary Material Accreted Onto Five Helium-Atmosphere White Dwarfs with $\texttt{cecilia}$**|Mariona Badenas-Agusti et.al.|[2505.06228](http://arxiv.org/abs/2505.06228)|null|
 |**2025-05-09**|**Anymate: A Dataset and Baselines for Learning 3D Object Rigging**|Yufan Deng et.al.|[2505.06227](http://arxiv.org/abs/2505.06227)|null|
 |**2025-05-09**|**Sweep Angle Effects of Flow Over an Undulated Cylinder**|Trevor K. Dunt et.al.|[2505.06226](http://arxiv.org/abs/2505.06226)|null|
