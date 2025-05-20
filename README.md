@@ -38,7 +38,7 @@
 |**2025-05-14**|**Adaptively-weighted Nearest Neighbors for Matrix Completion**|Tathagata Sadhukhan et.al.|[2505.09612](http://arxiv.org/abs/2505.09612)|null|
 |**2025-05-14**|**Exchange-driven giant magnetoelastic coupling in Sr $_4$Ru$_3$O$_{10}$**|Carolina A. Marques et.al.|[2505.09611](http://arxiv.org/abs/2505.09611)|null|
 |**2025-05-14**|**Customizing a Large Language Model for VHDL Design of High-Performance Microprocessors**|Nicolas Dupuis et.al.|[2505.09610](http://arxiv.org/abs/2505.09610)|null|
-|**2025-05-14**|**Robust Representation and Estimation of Barycenters and Modes of Probability Measures on Metric Spaces**|Washington Mio et.al.|[2505.09609](http://arxiv.org/abs/2505.09609)|null|
+|**2025-05-14**|**Robust Representation and Estimation of Barycenters and Modes of Probability Measures on Metric Spaces**|Washington Mio et.al.|[2505.09609](http://arxiv.org/abs/2505.09609)|**[link](https://github.com/trneedham/Barycentric-Merge-Trees)**|
 |**2025-05-14**|**LightLab: Controlling Light Sources in Images with Diffusion Models**|Nadav Magar et.al.|[2505.09608](http://arxiv.org/abs/2505.09608)|null|
 |**2025-05-14**|**Quantum simulation of bubble nucleation across a quantum phase transition**|De Luo et.al.|[2505.09607](http://arxiv.org/abs/2505.09607)|null|
 |**2025-05-14**|**Comparative Analysis of GFN Methods in Geometry Optimization of Small Organic Semiconductor Molecules: A DFT Benchmarking Study**|Steve Cabrel Teguia Kouam et.al.|[2505.09606](http://arxiv.org/abs/2505.09606)|null|
