@@ -1,4 +1,4 @@
-## Updated on 2025.05.20
+## Updated on 2025.05.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-19**|**CIE: Controlling Language Model Text Generations Using Continuous Signals**|Vinay Samuel et.al.|[2505.13448](http://arxiv.org/abs/2505.13448)|**[link](https://github.com/vsamuel2003/cie)**|
+|**2025-05-19**|**Mean Flows for One-step Generative Modeling**|Zhengyang Geng et.al.|[2505.13447](http://arxiv.org/abs/2505.13447)|null|
+|**2025-05-19**|**Unlocking Non-Invasive Brain-to-Text**|Dulhan Jayalath et.al.|[2505.13446](http://arxiv.org/abs/2505.13446)|null|
+|**2025-05-19**|**Trust, But Verify: A Self-Verification Approach to Reinforcement Learning with Verifiable Rewards**|Xiaoyuan Liu et.al.|[2505.13445](http://arxiv.org/abs/2505.13445)|null|
+|**2025-05-19**|**ChartMuseum: Testing Visual Reasoning Capabilities of Large Vision-Language Models**|Liyan Tang et.al.|[2505.13444](http://arxiv.org/abs/2505.13444)|null|
+|**2025-05-19**|**Wonderings on Wiggly Bispectra: Non-linear Evolution and Reconstruction of Oscillations in the Squeezed Bispectrum**|Samuel Goldstein et.al.|[2505.13443](http://arxiv.org/abs/2505.13443)|null|
+|**2025-05-19**|**Emergence of cross-layer composite spins in La $_4$Ni$_3$O$_{10}$ under pressure and possible routes to enhance its superconductivity**|Jiang Ruoshi et.al.|[2505.13442](http://arxiv.org/abs/2505.13442)|null|
+|**2025-05-19**|**GraspMolmo: Generalizable Task-Oriented Grasping via Large-Scale Synthetic Data Generation**|Abhay Deshpande et.al.|[2505.13441](http://arxiv.org/abs/2505.13441)|null|
+|**2025-05-19**|**Recollection from Pensieve: Novel View Synthesis via Learning from Uncalibrated Videos**|Ruoyu Wang et.al.|[2505.13440](http://arxiv.org/abs/2505.13440)|**[link](https://github.com/dwawayu/pensieve)**|
+|**2025-05-19**|**VTBench: Evaluating Visual Tokenizers for Autoregressive Image Generation**|Huawei Lin et.al.|[2505.13439](http://arxiv.org/abs/2505.13439)|**[link](https://github.com/huawei-lin/VTBench)**|
 |**2025-05-16**|**Exactly solvable dissipative dynamics and one-form strong-to-weak spontaneous symmetry breaking in interacting two-dimensional spin systems**|Lucas Sá et.al.|[2505.11501](http://arxiv.org/abs/2505.11501)|null|
 |**2025-05-16**|**NVSS J151002+570243: accretion and spin of a z > 4 Fermi detected blazar**|Gabriele Alzati et.al.|[2505.11500](http://arxiv.org/abs/2505.11500)|null|
 |**2025-05-16**|**Evolution of granular salty ice analogs for Europa: Sublimation and Irradiation**|Rafael Ottersberg et.al.|[2505.11498](http://arxiv.org/abs/2505.11498)|null|
@@ -524,17 +534,21 @@
 |**2025-03-06**|**Floxels: Fast Unsupervised Voxel Based Scene Flow Estimation**|David T. Hoffmann et.al.|[2503.04718](http://arxiv.org/abs/2503.04718)|null|
 |**2025-03-06**|**MIGHTEE: exploring the relationship between spectral index, redshift and radio luminosity**|Siddhant Pinjarkar et.al.|[2503.04717](http://arxiv.org/abs/2503.04717)|null|
 
-<p align=right>(<a href=#updated-on-20250520>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
 
 ## 低延迟交易
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-19**|**A large-scale analysis of public-facing, community-built chatbots on Character.AI**|Owen Lee et.al.|[2505.13354](http://arxiv.org/abs/2505.13354)|null|
+|**2025-05-19**|**Distributed Beamforming Using Decentralized Time Synchronization in a Six-Element Array**|Naim Shandi et.al.|[2505.13248](http://arxiv.org/abs/2505.13248)|null|
+|**2025-05-17**|**Scalable Time-Tagged Data Acquisition for Entanglement Distribution in Quantum Networks**|Abderrahim Amlou et.al.|[2505.12102](http://arxiv.org/abs/2505.12102)|null|
+|**2025-05-17**|**Efficient Vector Search on Disaggregated Memory with d-HNSW**|Yi Liu et.al.|[2505.11783](http://arxiv.org/abs/2505.11783)|null|
 |**2025-05-16**|**Palladium: A DPU-enabled Multi-Tenant Serverless Cloud over Zero-copy Multi-node RDMA Fabrics**|Shixiong Qi et.al.|[2505.11339](http://arxiv.org/abs/2505.11339)|null|
 |**2025-05-16**|**Temporally-Grounded Language Generation: A Benchmark for Real-Time Vision-Language Models**|Keunwoo Peter Yu et.al.|[2505.11326](http://arxiv.org/abs/2505.11326)|null|
 |**2025-05-16**|**Understanding and Characterizing Obfuscated Funds Transfers in Ethereum Smart Contracts**|Zhang Sheng et.al.|[2505.11320](http://arxiv.org/abs/2505.11320)|null|
 |**2025-05-15**|**Country wide Shared FibreBased Infrastructure for Dissemination of Precise Time, Coherent Optical Frequency with Vibration Sensing**|Josef Vojtech et.al.|[2505.10314](http://arxiv.org/abs/2505.10314)|null|
-|**2025-05-13**|**Dataflow & Tiling Strategies in Edge-AI FPGA Accelerators: A Comprehensive Literature Review**|Zhaoqin Li et.al.|[2505.08992](http://arxiv.org/abs/2505.08992)|null|
+|**2025-05-20**|**Dataflow & Tiling Strategies in Edge-AI FPGA Accelerators: A Comprehensive Literature Review**|Richie Li et.al.|[2505.08992](http://arxiv.org/abs/2505.08992)|null|
 |**2025-05-07**|**Winning at All Cost: A Small Environment for Eliciting Specification Gaming Behaviors in Large Language Models**|Lars Malmqvist et.al.|[2505.07846](http://arxiv.org/abs/2505.07846)|null|
 |**2025-05-12**|**A two-stage time-stretching TDC with discrete components**|Yanbo Chu et.al.|[2505.07514](http://arxiv.org/abs/2505.07514)|null|
 |**2025-05-11**|**Collection: Datasets from AFAR Challenge**|Saad Masrur et.al.|[2505.06823](http://arxiv.org/abs/2505.06823)|null|
@@ -610,7 +624,7 @@
 |**2025-02-27**|**Wildcat: Educational RISC-V Microprocessors**|Martin Schoeberl et.al.|[2502.20197](http://arxiv.org/abs/2502.20197)|**[link](https://github.com/schoeberl/wildcat)**|
 |**2025-02-27**|**FPGA-Accelerated SpeckleNN with SNL for Real-time X-ray Single-Particle Imaging**|Abhilasha Dave et.al.|[2502.19734](http://arxiv.org/abs/2502.19734)|null|
 
-<p align=right>(<a href=#updated-on-20250520>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
