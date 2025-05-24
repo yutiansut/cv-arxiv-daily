@@ -24,14 +24,14 @@
 |**2025-05-22**|**Emergent Gravity from Topological Quantum Field Theory: Stochastic Gradient Flow Perspective away from the Quantum Gravity Problem**|Andrea Addazi et.al.|[2505.17014](http://arxiv.org/abs/2505.17014)|null|
 |**2025-05-22**|**When Are Concepts Erased From Diffusion Models?**|Kevin Lu et.al.|[2505.17013](http://arxiv.org/abs/2505.17013)|null|
 |**2025-05-21**|**Selection of optically variable active galactic nuclei via a random forest algorithm**|Demetra De Cicco et.al.|[2505.15819](http://arxiv.org/abs/2505.15819)|null|
-|**2025-05-21**|**InstructSAM: A Training-Free Framework for Instruction-Oriented Remote Sensing Object Recognition**|Yijie Zheng et.al.|[2505.15818](http://arxiv.org/abs/2505.15818)|null|
+|**2025-05-21**|**InstructSAM: A Training-Free Framework for Instruction-Oriented Remote Sensing Object Recognition**|Yijie Zheng et.al.|[2505.15818](http://arxiv.org/abs/2505.15818)|**[link](https://github.com/VoyagerXvoyagerx/InstructSAM)**|
 |**2025-05-21**|**Learning to Reason via Mixture-of-Thought for Logical Reasoning**|Tong Zheng et.al.|[2505.15817](http://arxiv.org/abs/2505.15817)|**[link](https://github.com/zhengkid/Truth_Table_Logical_Reasoning)**|
 |**2025-05-21**|**Streamline Without Sacrifice -- Squeeze out Computation Redundancy in LMM**|Penghao Wu et.al.|[2505.15816](http://arxiv.org/abs/2505.15816)|**[link](https://github.com/penghao-wu/proxyv)**|
 |**2025-05-21**|**On an Euler-Schrödinger system appearing in laser-plasma interaction**|Kuntal Bhandari et.al.|[2505.15815](http://arxiv.org/abs/2505.15815)|null|
 |**2025-05-21**|**A Taxonomy of Structure from Motion Methods**|Federica Arrigoni et.al.|[2505.15814](http://arxiv.org/abs/2505.15814)|null|
 |**2025-05-21**|**Meta-Learning an In-Context Transformer Model of Human Higher Visual Cortex**|Muquan Yu et.al.|[2505.15813](http://arxiv.org/abs/2505.15813)|null|
 |**2025-05-21**|**Leveraging the Powerful Attention of a Pre-trained Diffusion Model for Exemplar-based Image Colorization**|Satoshi Kosugi et.al.|[2505.15812](http://arxiv.org/abs/2505.15812)|**[link](https://github.com/satoshi-kosugi/powerful-attention)**|
-|**2025-05-21**|**On the creation of narrow AI: hierarchy and nonlocality of neural network skills**|Eric J. Michaud et.al.|[2505.15811](http://arxiv.org/abs/2505.15811)|null|
+|**2025-05-21**|**On the creation of narrow AI: hierarchy and nonlocality of neural network skills**|Eric J. Michaud et.al.|[2505.15811](http://arxiv.org/abs/2505.15811)|**[link](https://github.com/ejmichaud/narrow)**|
 |**2025-05-21**|**GUI-G1: Understanding R1-Zero-Like Training for Visual Grounding in GUI Agents**|Yuqi Zhou et.al.|[2505.15810](http://arxiv.org/abs/2505.15810)|**[link](https://github.com/yuqi-zhou/gui-g1)**|
 |**2025-05-20**|**Grouping First, Attending Smartly: Training-Free Acceleration for Diffusion Transformers**|Sucheng Ren et.al.|[2505.14687](http://arxiv.org/abs/2505.14687)|**[link](https://github.com/oliverrensu/grat)**|
 |**2025-05-20**|**HDO ice detected toward an isolated low-mass protostar with JWST**|Katerina Slavicinska et.al.|[2505.14686](http://arxiv.org/abs/2505.14686)|null|
