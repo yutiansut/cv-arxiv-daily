@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2025.05.23
+## Updated on 2025.05.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## quant
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-22**|**GoT-R1: Unleashing Reasoning Capability of MLLM for Visual Generation with Reinforcement Learning**|Chengqi Duan et.al.|[2505.17022](http://arxiv.org/abs/2505.17022)|null|
+|**2025-05-22**|**ARB: A Comprehensive Arabic Multimodal Reasoning Benchmark**|Sara Ghaboura et.al.|[2505.17021](http://arxiv.org/abs/2505.17021)|null|
+|**2025-05-22**|**CrossLMM: Decoupling Long Video Sequences from LMMs via Dual Cross-Attention Mechanisms**|Shilin Yan et.al.|[2505.17020](http://arxiv.org/abs/2505.17020)|null|
+|**2025-05-22**|**Let Androids Dream of Electric Sheep: A Human-like Image Implication Understanding and Reasoning Framework**|Chenhao Zhang et.al.|[2505.17019](http://arxiv.org/abs/2505.17019)|null|
+|**2025-05-22**|**SophiaVL-R1: Reinforcing MLLMs Reasoning with Thinking Reward**|Kaixuan Fan et.al.|[2505.17018](http://arxiv.org/abs/2505.17018)|null|
+|**2025-05-22**|**Delving into RL for Image Generation with CoT: A Study on DPO vs. GRPO**|Chengzhuo Tong et.al.|[2505.17017](http://arxiv.org/abs/2505.17017)|null|
+|**2025-05-22**|**Interactive Post-Training for Vision-Language-Action Models**|Shuhan Tan et.al.|[2505.17016](http://arxiv.org/abs/2505.17016)|null|
+|**2025-05-22**|**Multi-SpatialMLLM: Multi-Frame Spatial Understanding with Multi-Modal Large Language Models**|Runsen Xu et.al.|[2505.17015](http://arxiv.org/abs/2505.17015)|null|
+|**2025-05-22**|**Emergent Gravity from Topological Quantum Field Theory: Stochastic Gradient Flow Perspective away from the Quantum Gravity Problem**|Andrea Addazi et.al.|[2505.17014](http://arxiv.org/abs/2505.17014)|null|
+|**2025-05-22**|**When Are Concepts Erased From Diffusion Models?**|Kevin Lu et.al.|[2505.17013](http://arxiv.org/abs/2505.17013)|null|
 |**2025-05-21**|**Selection of optically variable active galactic nuclei via a random forest algorithm**|Demetra De Cicco et.al.|[2505.15819](http://arxiv.org/abs/2505.15819)|null|
 |**2025-05-21**|**InstructSAM: A Training-Free Framework for Instruction-Oriented Remote Sensing Object Recognition**|Yijie Zheng et.al.|[2505.15818](http://arxiv.org/abs/2505.15818)|null|
 |**2025-05-21**|**Learning to Reason via Mixture-of-Thought for Logical Reasoning**|Tong Zheng et.al.|[2505.15817](http://arxiv.org/abs/2505.15817)|**[link](https://github.com/zhengkid/Truth_Table_Logical_Reasoning)**|
@@ -554,6 +564,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-22**|**Cosmos: A CXL-Based Full In-Memory System for Approximate Nearest Neighbor Search**|Seoyoung Ko et.al.|[2505.16096](http://arxiv.org/abs/2505.16096)|null|
+|**2025-05-21**|**Coincident Learning for Beam-based RF Station Fault Identification Using Phase Information at the SLAC Linac Coherent Light Source**|Jia Liang et.al.|[2505.16052](http://arxiv.org/abs/2505.16052)|null|
 |**2025-05-21**|**Robo-DM: Data Management For Large Robot Datasets**|Kaiyuan Chen et.al.|[2505.15558](http://arxiv.org/abs/2505.15558)|null|
 |**2025-05-21**|**AsynFusion: Towards Asynchronous Latent Consistency Models for Decoupled Whole-Body Audio-Driven Avatars**|Tianbao Zhang et.al.|[2505.15058](http://arxiv.org/abs/2505.15058)|null|
 |**2025-05-20**|**A Data-Driven Method to Identify IBRs with Dominant Participation in Sub-Synchronous Oscillations**|Youhong Chen et.al.|[2505.14267](http://arxiv.org/abs/2505.14267)|null|
