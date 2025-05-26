@@ -1,4 +1,4 @@
-## Updated on 2025.05.25
+## Updated on 2025.05.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,12 +13,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-22**|**GoT-R1: Unleashing Reasoning Capability of MLLM for Visual Generation with Reinforcement Learning**|Chengqi Duan et.al.|[2505.17022](http://arxiv.org/abs/2505.17022)|null|
-|**2025-05-22**|**ARB: A Comprehensive Arabic Multimodal Reasoning Benchmark**|Sara Ghaboura et.al.|[2505.17021](http://arxiv.org/abs/2505.17021)|null|
-|**2025-05-22**|**CrossLMM: Decoupling Long Video Sequences from LMMs via Dual Cross-Attention Mechanisms**|Shilin Yan et.al.|[2505.17020](http://arxiv.org/abs/2505.17020)|null|
-|**2025-05-22**|**Let Androids Dream of Electric Sheep: A Human-like Image Implication Understanding and Reasoning Framework**|Chenhao Zhang et.al.|[2505.17019](http://arxiv.org/abs/2505.17019)|null|
-|**2025-05-22**|**SophiaVL-R1: Reinforcing MLLMs Reasoning with Thinking Reward**|Kaixuan Fan et.al.|[2505.17018](http://arxiv.org/abs/2505.17018)|null|
-|**2025-05-22**|**Delving into RL for Image Generation with CoT: A Study on DPO vs. GRPO**|Chengzhuo Tong et.al.|[2505.17017](http://arxiv.org/abs/2505.17017)|null|
+|**2025-05-22**|**GoT-R1: Unleashing Reasoning Capability of MLLM for Visual Generation with Reinforcement Learning**|Chengqi Duan et.al.|[2505.17022](http://arxiv.org/abs/2505.17022)|**[link](https://github.com/gogoduan/got-r1)**|
+|**2025-05-22**|**ARB: A Comprehensive Arabic Multimodal Reasoning Benchmark**|Sara Ghaboura et.al.|[2505.17021](http://arxiv.org/abs/2505.17021)|**[link](https://github.com/mbzuai-oryx/arb)**|
+|**2025-05-22**|**CrossLMM: Decoupling Long Video Sequences from LMMs via Dual Cross-Attention Mechanisms**|Shilin Yan et.al.|[2505.17020](http://arxiv.org/abs/2505.17020)|**[link](https://github.com/shilinyan99/crosslmm)**|
+|**2025-05-22**|**Let Androids Dream of Electric Sheep: A Human-like Image Implication Understanding and Reasoning Framework**|Chenhao Zhang et.al.|[2505.17019](http://arxiv.org/abs/2505.17019)|**[link](https://github.com/ming-zch/let-androids-dream-of-electric-sheep)**|
+|**2025-05-22**|**SophiaVL-R1: Reinforcing MLLMs Reasoning with Thinking Reward**|Kaixuan Fan et.al.|[2505.17018](http://arxiv.org/abs/2505.17018)|**[link](https://github.com/kxfan2002/sophiavl-r1)**|
+|**2025-05-22**|**Delving into RL for Image Generation with CoT: A Study on DPO vs. GRPO**|Chengzhuo Tong et.al.|[2505.17017](http://arxiv.org/abs/2505.17017)|**[link](https://github.com/ziyuguo99/image-generation-cot)**|
 |**2025-05-22**|**Interactive Post-Training for Vision-Language-Action Models**|Shuhan Tan et.al.|[2505.17016](http://arxiv.org/abs/2505.17016)|null|
 |**2025-05-22**|**Multi-SpatialMLLM: Multi-Frame Spatial Understanding with Multi-Modal Large Language Models**|Runsen Xu et.al.|[2505.17015](http://arxiv.org/abs/2505.17015)|null|
 |**2025-05-22**|**Emergent Gravity from Topological Quantum Field Theory: Stochastic Gradient Flow Perspective away from the Quantum Gravity Problem**|Andrea Addazi et.al.|[2505.17014](http://arxiv.org/abs/2505.17014)|null|
@@ -564,7 +564,7 @@
 |**2025-03-06**|**Floxels: Fast Unsupervised Voxel Based Scene Flow Estimation**|David T. Hoffmann et.al.|[2503.04718](http://arxiv.org/abs/2503.04718)|null|
 |**2025-03-06**|**MIGHTEE: exploring the relationship between spectral index, redshift and radio luminosity**|Siddhant Pinjarkar et.al.|[2503.04717](http://arxiv.org/abs/2503.04717)|null|
 
-<p align=right>(<a href=#updated-on-20250525>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
 
 ## 低延迟交易
 
@@ -576,7 +576,7 @@
 |**2025-05-21**|**AsynFusion: Towards Asynchronous Latent Consistency Models for Decoupled Whole-Body Audio-Driven Avatars**|Tianbao Zhang et.al.|[2505.15058](http://arxiv.org/abs/2505.15058)|null|
 |**2025-05-20**|**A Data-Driven Method to Identify IBRs with Dominant Participation in Sub-Synchronous Oscillations**|Youhong Chen et.al.|[2505.14267](http://arxiv.org/abs/2505.14267)|null|
 |**2025-05-19**|**A large-scale analysis of public-facing, community-built chatbots on Character.AI**|Owen Lee et.al.|[2505.13354](http://arxiv.org/abs/2505.13354)|null|
-|**2025-05-19**|**Distributed Beamforming Using Decentralized Time Synchronization in a Six-Element Array**|Naim Shandi et.al.|[2505.13248](http://arxiv.org/abs/2505.13248)|null|
+|**2025-05-22**|**Distributed Beamforming Using Decentralized Time Synchronization in a Six-Element Array**|Naim Shandi et.al.|[2505.13248](http://arxiv.org/abs/2505.13248)|null|
 |**2025-05-17**|**Scalable Time-Tagged Data Acquisition for Entanglement Distribution in Quantum Networks**|Abderrahim Amlou et.al.|[2505.12102](http://arxiv.org/abs/2505.12102)|null|
 |**2025-05-17**|**Efficient Vector Search on Disaggregated Memory with d-HNSW**|Yi Liu et.al.|[2505.11783](http://arxiv.org/abs/2505.11783)|null|
 |**2025-05-16**|**Palladium: A DPU-enabled Multi-Tenant Serverless Cloud over Zero-copy Multi-node RDMA Fabrics**|Shixiong Qi et.al.|[2505.11339](http://arxiv.org/abs/2505.11339)|null|
@@ -659,7 +659,7 @@
 |**2025-02-27**|**Wildcat: Educational RISC-V Microprocessors**|Martin Schoeberl et.al.|[2502.20197](http://arxiv.org/abs/2502.20197)|**[link](https://github.com/schoeberl/wildcat)**|
 |**2025-02-27**|**FPGA-Accelerated SpeckleNN with SNL for Real-time X-ray Single-Particle Imaging**|Abhilasha Dave et.al.|[2502.19734](http://arxiv.org/abs/2502.19734)|null|
 
-<p align=right>(<a href=#updated-on-20250525>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
