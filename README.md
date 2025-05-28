@@ -1,4 +1,4 @@
-## Updated on 2025.05.27
+## Updated on 2025.05.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-26**|**Hard Negative Contrastive Learning for Fine-Grained Geometric Understanding in Large Multimodal Models**|Kai Sun et.al.|[2505.20152](http://arxiv.org/abs/2505.20152)|null|
+|**2025-05-26**|**The evolving categories multinomial distribution: introduction with applications to movement ecology and vote transfer**|Ricardo Carrizo Vergara et.al.|[2505.20151](http://arxiv.org/abs/2505.20151)|null|
+|**2025-05-26**|**On the (Non) Injectivity of Piecewise Linear Janossy Pooling**|Ilai Reshef et.al.|[2505.20150](http://arxiv.org/abs/2505.20150)|null|
+|**2025-05-26**|**Improvement Strategies for Few-Shot Learning in OCT Image Classification of Rare Retinal Diseases**|Cheng-Yu Tai et.al.|[2505.20149](http://arxiv.org/abs/2505.20149)|null|
+|**2025-05-26**|**MineAnyBuild: Benchmarking Spatial Planning for Open-world AI Agents**|Ziming Wei et.al.|[2505.20148](http://arxiv.org/abs/2505.20148)|null|
+|**2025-05-26**|**FUDOKI: Discrete Flow-based Unified Understanding and Generation via Kinetic-Optimal Velocities**|Jin Wang et.al.|[2505.20147](http://arxiv.org/abs/2505.20147)|null|
+|**2025-05-26**|**On the Robustness of RSMA to Adversarial BD-RIS-Induced Interference**|Arthur S. de Sena et.al.|[2505.20146](http://arxiv.org/abs/2505.20146)|null|
+|**2025-05-26**|**Auger parameter analysis for TiN and AlN thin films via combined in-situ XPS and HAXPES**|O. V. Pshyk. J. Patidar et.al.|[2505.20145](http://arxiv.org/abs/2505.20145)|null|
+|**2025-05-26**|**SeMe: Training-Free Language Model Merging via Semantic Alignment**|Jian Gu et.al.|[2505.20144](http://arxiv.org/abs/2505.20144)|null|
+|**2025-05-26**|**On the chaos induced by the Galactic bar on the orbits of nearby halo stars**|Hanneke C. Woudenberg et.al.|[2505.20143](http://arxiv.org/abs/2505.20143)|null|
 |**2025-05-23**|**Modeling Cosmic-Ray Transport: Magnetized versus Unmagnetized Motion in Astrophysical Magnetic Turbulence**|Jeremiah Lübke et.al.|[2505.18155](http://arxiv.org/abs/2505.18155)|null|
 |**2025-05-23**|**The Staircase of Ethics: Probing LLM Value Priorities through Multi-Step Induction to Complex Moral Dilemmas**|Ya Wu et.al.|[2505.18154](http://arxiv.org/abs/2505.18154)|null|
 |**2025-05-23**|**REN: Fast and Efficient Region Encodings from Patch-Based Image Encoders**|Savya Khosla et.al.|[2505.18153](http://arxiv.org/abs/2505.18153)|null|
@@ -574,12 +584,13 @@
 |**2025-03-06**|**Floxels: Fast Unsupervised Voxel Based Scene Flow Estimation**|David T. Hoffmann et.al.|[2503.04718](http://arxiv.org/abs/2503.04718)|null|
 |**2025-03-06**|**MIGHTEE: exploring the relationship between spectral index, redshift and radio luminosity**|Siddhant Pinjarkar et.al.|[2503.04717](http://arxiv.org/abs/2503.04717)|null|
 
-<p align=right>(<a href=#updated-on-20250527>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250528>back to top</a>)</p>
 
 ## 低延迟交易
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-25**|**Secure IVSHMEM: End-to-End Shared-Memory Protocol with Hypervisor-CA Handshake and In-Kernel Access Control**|Hyunwoo Kim et.al.|[2505.19004](http://arxiv.org/abs/2505.19004)|null|
 |**2025-05-23**|**DecLock: A Case of Decoupled Locking for Disaggregated Memory**|Hanze Zhang et.al.|[2505.17641](http://arxiv.org/abs/2505.17641)|null|
 |**2025-05-23**|**Direct Feature Access -- Scaling Network Traffic Feature Collection to Terabit Speed**|Lukas Froschauer et.al.|[2505.17573](http://arxiv.org/abs/2505.17573)|null|
 |**2025-05-23**|**H2:Towards Efficient Large-Scale LLM Training on Hyper-Heterogeneous Cluster over 1,000 Chips**|Ding Tang et.al.|[2505.17548](http://arxiv.org/abs/2505.17548)|null|
@@ -672,7 +683,7 @@
 |**2025-02-27**|**Wildcat: Educational RISC-V Microprocessors**|Martin Schoeberl et.al.|[2502.20197](http://arxiv.org/abs/2502.20197)|**[link](https://github.com/schoeberl/wildcat)**|
 |**2025-02-27**|**FPGA-Accelerated SpeckleNN with SNL for Real-time X-ray Single-Particle Imaging**|Abhilasha Dave et.al.|[2502.19734](http://arxiv.org/abs/2502.19734)|null|
 
-<p align=right>(<a href=#updated-on-20250527>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250528>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
