@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2025.06.02
+## Updated on 2025.06.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## quant
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-30**|**Open CaptchaWorld: A Comprehensive Web-based Platform for Testing and Benchmarking Multimodal LLM Agents**|Yaxin Luo et.al.|[2505.24878](http://arxiv.org/abs/2505.24878)|null|
+|**2025-05-30**|**AdaHuman: Animatable Detailed 3D Human Generation with Compositional Multiview Diffusion**|Yangyi Huang et.al.|[2505.24877](http://arxiv.org/abs/2505.24877)|null|
+|**2025-05-30**|**Agent-X: Evaluating Deep Multimodal Reasoning in Vision-Centric Agentic Tasks**|Tajamul Ashraf et.al.|[2505.24876](http://arxiv.org/abs/2505.24876)|null|
+|**2025-05-30**|**ReasonGen-R1: CoT for Autoregressive Image generation models through SFT and RL**|Yu Zhang et.al.|[2505.24875](http://arxiv.org/abs/2505.24875)|null|
+|**2025-05-30**|**The Road to Generalizable Neuro-Symbolic Learning Should be Paved with Foundation Models**|Adam Stein et.al.|[2505.24874](http://arxiv.org/abs/2505.24874)|null|
+|**2025-05-30**|**MiniMax-Remover: Taming Bad Noise Helps Video Object Removal**|Bojia Zi et.al.|[2505.24873](http://arxiv.org/abs/2505.24873)|null|
+|**2025-05-30**|**ProxyThinker: Test-Time Guidance through Small Visual Reasoners**|Zilin Xiao et.al.|[2505.24872](http://arxiv.org/abs/2505.24872)|null|
+|**2025-05-30**|**MoDoMoDo: Multi-Domain Data Mixtures for Multimodal LLM Reinforcement Learning**|Yiqing Liang et.al.|[2505.24871](http://arxiv.org/abs/2505.24871)|null|
+|**2025-05-30**|**GenSpace: Benchmarking Spatially-Aware Image Generation**|Zehan Wang et.al.|[2505.24870](http://arxiv.org/abs/2505.24870)|null|
+|**2025-05-30**|**SiLVR: A Simple Language-based Video Reasoning Framework**|Ce Zhang et.al.|[2505.24869](http://arxiv.org/abs/2505.24869)|null|
 |**2025-05-29**|**TextRegion: Text-Aligned Region Tokens from Frozen Image-Text Models**|Yao Xiao et.al.|[2505.23769](http://arxiv.org/abs/2505.23769)|**[link](https://github.com/avaxiao/TextRegion)**|
 |**2025-05-29**|**Turbulence in Primordial Dark Matter Halos and Its Impact on the First Star Formation**|Meng-Yuan Ho et.al.|[2505.23768](http://arxiv.org/abs/2505.23768)|null|
 |**2025-05-29**|**On completely monotonic functions**|Mostafa Najafi et.al.|[2505.23767](http://arxiv.org/abs/2505.23767)|null|
@@ -614,6 +624,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-30**|**Muochrony: Exploring Time and Frequency Applications of Cosmic Muons**|G. Cerretto et.al.|[2505.24606](http://arxiv.org/abs/2505.24606)|null|
 |**2025-05-28**|**Towards Efficient Key-Value Cache Management for Prefix Prefilling in LLM Inference**|Yue Zhu et.al.|[2505.21919](http://arxiv.org/abs/2505.21919)|null|
 |**2025-05-25**|**Secure IVSHMEM: End-to-End Shared-Memory Protocol with Hypervisor-CA Handshake and In-Kernel Access Control**|Hyunwoo Kim et.al.|[2505.19004](http://arxiv.org/abs/2505.19004)|null|
 |**2025-05-23**|**DecLock: A Case of Decoupled Locking for Disaggregated Memory**|Hanze Zhang et.al.|[2505.17641](http://arxiv.org/abs/2505.17641)|null|
