@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2025.06.13
+## Updated on 2025.06.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## quant
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-12**|**Rethinking Losses for Diffusion Bridge Samplers**|Sebastian Sanokowski et.al.|[2506.10982](http://arxiv.org/abs/2506.10982)|null|
+|**2025-06-12**|**SceneCompleter: Dense 3D Scene Completion for Generative Novel View Synthesis**|Weiliang Chen et.al.|[2506.10981](http://arxiv.org/abs/2506.10981)|null|
+|**2025-06-12**|**InstaInpaint: Instant 3D-Scene Inpainting with Masked Large Reconstruction Model**|Junqi You et.al.|[2506.10980](http://arxiv.org/abs/2506.10980)|null|
+|**2025-06-12**|**How Well Can Reasoning Models Identify and Recover from Unhelpful Thoughts?**|Sohee Yang et.al.|[2506.10979](http://arxiv.org/abs/2506.10979)|null|
+|**2025-06-12**|**Fine-Grained Perturbation Guidance via Attention Head Selection**|Donghoon Ahn et.al.|[2506.10978](http://arxiv.org/abs/2506.10978)|null|
+|**2025-06-12**|**QuadricFormer: Scene as Superquadrics for 3D Semantic Occupancy Prediction**|Sicheng Zuo et.al.|[2506.10977](http://arxiv.org/abs/2506.10977)|null|
+|**2025-06-12**|**ASMOP: Additional sampling stochastic trust region method for multi-objective problems**|Nataša Krklec Jerinkić et.al.|[2506.10976](http://arxiv.org/abs/2506.10976)|null|
+|**2025-06-12**|**GenWorld: Towards Detecting AI-generated Real-world Simulation Videos**|Weiliang Chen et.al.|[2506.10975](http://arxiv.org/abs/2506.10975)|null|
+|**2025-06-12**|**AutoMind: Adaptive Knowledgeable Agent for Automated Data Science**|Yixin Ou et.al.|[2506.10974](http://arxiv.org/abs/2506.10974)|null|
+|**2025-06-12**|**Principled Approaches for Extending Neural Architectures to Function Spaces for Operator Learning**|Julius Berner et.al.|[2506.10973](http://arxiv.org/abs/2506.10973)|null|
 |**2025-06-11**|**Flipping Against All Odds: Reducing LLM Coin Flip Bias via Verbalized Rejection Sampling**|Tim Z. Xiao et.al.|[2506.09998](http://arxiv.org/abs/2506.09998)|null|
 |**2025-06-11**|**DGS-LRM: Real-Time Deformable 3D Gaussian Reconstruction From Monocular Videos**|Chieh Hubert Lin et.al.|[2506.09997](http://arxiv.org/abs/2506.09997)|null|
 |**2025-06-11**|**From Judgment to Interference: Early Stopping LLM Harmful Outputs via Streaming Content Monitoring**|Yang Li et.al.|[2506.09996](http://arxiv.org/abs/2506.09996)|null|
@@ -694,6 +704,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-11**|**TTT-Bench: A Benchmark for Evaluating Reasoning Ability with Simple and Novel Tic-Tac-Toe-style Games**|Prakamya Mishra et.al.|[2506.10209](http://arxiv.org/abs/2506.10209)|null|
 |**2025-06-10**|**Low-Level and NUMA-Aware Optimization for High-Performance Quantum Simulation**|Ali Rezaei et.al.|[2506.09198](http://arxiv.org/abs/2506.09198)|null|
 |**2025-06-09**|**Congestion-Aware Path Selection for Load Balancing in AI Clusters**|Erfan Nosrati et.al.|[2506.08132](http://arxiv.org/abs/2506.08132)|null|
 |**2025-06-08**|**Exploiting Inaccurate Branch History in Side-Channel Attacks**|Yuhui Zhu et.al.|[2506.07263](http://arxiv.org/abs/2506.07263)|null|
