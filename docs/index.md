@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.18
+## Updated on 2025.06.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## quant
@@ -23,7 +23,7 @@ layout: default
 |**2025-06-13**|**code_transformed: The Influence of Large Language Models on Code**|Yuliang Xu et.al.|[2506.12014](http://arxiv.org/abs/2506.12014)|null|
 |**2025-06-13**|**Entropy production in active Rouse polymers**|Sandipan Dutta et.al.|[2506.12013](http://arxiv.org/abs/2506.12013)|null|
 |**2025-06-13**|**Tracing LLM Reasoning Processes with Strategic Games: A Framework for Planning, Revision, and Resource-Constrained Decision Making**|Xiaopeng Yuan et.al.|[2506.12012](http://arxiv.org/abs/2506.12012)|null|
-|**2025-06-13**|**Engineering Fast and Space-Efficient Recompression from SLP-Compressed Text**|Ankith Reddy Adudodla et.al.|[2506.12011](http://arxiv.org/abs/2506.12011)|null|
+|**2025-06-13**|**Engineering Fast and Space-Efficient Recompression from SLP-Compressed Text**|Ankith Reddy Adudodla et.al.|[2506.12011](http://arxiv.org/abs/2506.12011)|**[link](https://github.com/ankithreddy02/fast-recompression)**|
 |**2025-06-13**|**A Random Matrix Theory of Pauli Tomography**|Nathan Keenan et.al.|[2506.12010](http://arxiv.org/abs/2506.12010)|null|
 |**2025-06-13**|**Affogato: Learning Open-Vocabulary Affordance Grounding with Automated Data Generation at Scale**|Junha Lee et.al.|[2506.12009](http://arxiv.org/abs/2506.12009)|null|
 |**2025-06-13**|**Reimagining Dance: Real-time Music Co-creation between Dancers and AI**|Olga Vechtomova et.al.|[2506.12008](http://arxiv.org/abs/2506.12008)|null|
@@ -37,7 +37,7 @@ layout: default
 |**2025-06-12**|**QuadricFormer: Scene as Superquadrics for 3D Semantic Occupancy Prediction**|Sicheng Zuo et.al.|[2506.10977](http://arxiv.org/abs/2506.10977)|**[link](https://github.com/zuosc19/quadricformer)**|
 |**2025-06-12**|**ASMOP: Additional sampling stochastic trust region method for multi-objective problems**|Nataša Krklec Jerinkić et.al.|[2506.10976](http://arxiv.org/abs/2506.10976)|null|
 |**2025-06-12**|**GenWorld: Towards Detecting AI-generated Real-world Simulation Videos**|Weiliang Chen et.al.|[2506.10975](http://arxiv.org/abs/2506.10975)|null|
-|**2025-06-12**|**AutoMind: Adaptive Knowledgeable Agent for Automated Data Science**|Yixin Ou et.al.|[2506.10974](http://arxiv.org/abs/2506.10974)|null|
+|**2025-06-12**|**AutoMind: Adaptive Knowledgeable Agent for Automated Data Science**|Yixin Ou et.al.|[2506.10974](http://arxiv.org/abs/2506.10974)|**[link](https://github.com/innovatingai/automind)**|
 |**2025-06-12**|**Principled Approaches for Extending Neural Architectures to Function Spaces for Operator Learning**|Julius Berner et.al.|[2506.10973](http://arxiv.org/abs/2506.10973)|**[link](https://github.com/neuraloperator/nns-to-nos)**|
 |**2025-06-11**|**Flipping Against All Odds: Reducing LLM Coin Flip Bias via Verbalized Rejection Sampling**|Tim Z. Xiao et.al.|[2506.09998](http://arxiv.org/abs/2506.09998)|null|
 |**2025-06-11**|**DGS-LRM: Real-Time Deformable 3D Gaussian Reconstruction From Monocular Videos**|Chieh Hubert Lin et.al.|[2506.09997](http://arxiv.org/abs/2506.09997)|null|
@@ -45,14 +45,14 @@ layout: default
 |**2025-06-11**|**PlayerOne: Egocentric World Simulator**|Yuanpeng Tu et.al.|[2506.09995](http://arxiv.org/abs/2506.09995)|null|
 |**2025-06-11**|**eFlesh: Highly customizable Magnetic Touch Sensing using Cut-Cell Microstructures**|Venkatesh Pattabiraman et.al.|[2506.09994](http://arxiv.org/abs/2506.09994)|null|
 |**2025-06-11**|**Text-Aware Image Restoration with Diffusion Models**|Jaewon Min et.al.|[2506.09993](http://arxiv.org/abs/2506.09993)|null|
-|**2025-06-11**|**Large Language Models for Toxic Language Detection in Low-Resource Balkan Languages**|Amel Muminovic et.al.|[2506.09992](http://arxiv.org/abs/2506.09992)|null|
+|**2025-06-11**|**Large Language Models for Toxic Language Detection in Low-Resource Balkan Languages**|Amel Muminovic et.al.|[2506.09992](http://arxiv.org/abs/2506.09992)|**[link](https://github.com/Ammce/llm-balkan-toxicity)**|
 |**2025-06-11**|**Multiverse: Your Language Models Secretly Decide How to Parallelize and Merge Generation**|Xinyu Yang et.al.|[2506.09991](http://arxiv.org/abs/2506.09991)|null|
 |**2025-06-11**|**Chain-of-Action: Trajectory Autoregressive Modeling for Robotic Manipulation**|Wenbo Zhang et.al.|[2506.09990](http://arxiv.org/abs/2506.09990)|null|
 |**2025-06-11**|**Hearing Hands: Generating Sounds from Physical Interactions in 3D Scenes**|Yiming Dou et.al.|[2506.09989](http://arxiv.org/abs/2506.09989)|**[link](https://github.com/dou-yiming/hearing_hands)**|
-|**2025-06-10**|**ALE-Bench: A Benchmark for Long-Horizon Objective-Driven Algorithm Engineering**|Yuki Imajuku et.al.|[2506.09050](http://arxiv.org/abs/2506.09050)|null|
+|**2025-06-10**|**ALE-Bench: A Benchmark for Long-Horizon Objective-Driven Algorithm Engineering**|Yuki Imajuku et.al.|[2506.09050](http://arxiv.org/abs/2506.09050)|**[link](https://github.com/sakanaai/ale-bench)**|
 |**2025-06-10**|**VIKI-R: Coordinating Embodied Multi-Agent Cooperation via Reinforcement Learning**|Li Kang et.al.|[2506.09049](http://arxiv.org/abs/2506.09049)|null|
 |**2025-06-10**|**Understanding Task Vectors in In-Context Learning: Emergence, Functionality, and Limitations**|Yuxin Dong et.al.|[2506.09048](http://arxiv.org/abs/2506.09048)|null|
-|**2025-06-10**|**Same Task, Different Circuits: Disentangling Modality-Specific Mechanisms in VLMs**|Yaniv Nikankin et.al.|[2506.09047](http://arxiv.org/abs/2506.09047)|null|
+|**2025-06-10**|**Same Task, Different Circuits: Disentangling Modality-Specific Mechanisms in VLMs**|Yaniv Nikankin et.al.|[2506.09047](http://arxiv.org/abs/2506.09047)|**[link](https://github.com/technion-cs-nlp/vlm-circuits-analysis)**|
 |**2025-06-10**|**Agentic Neural Networks: Self-Evolving Multi-Agent Systems via Textual Backpropagation**|Xiaowen Ma et.al.|[2506.09046](http://arxiv.org/abs/2506.09046)|null|
 |**2025-06-10**|**MagCache: Fast Video Generation with Magnitude-Aware Cache**|Zehong Ma et.al.|[2506.09045](http://arxiv.org/abs/2506.09045)|**[link](https://github.com/zehong-ma/magcache)**|
 |**2025-06-10**|**The Decoupled Risk Landscape in Performative Prediction**|Javier Sanguino et.al.|[2506.09044](http://arxiv.org/abs/2506.09044)|null|
@@ -79,13 +79,13 @@ layout: default
 |**2025-06-06**|**The Atacama Cosmology Telescope: DR6 Power Spectrum Foreground Model and Validation**|Benjamin Beringue et.al.|[2506.06274](http://arxiv.org/abs/2506.06274)|null|
 |**2025-06-06**|**AdvSumm: Adversarial Training for Bias Mitigation in Text Summarization**|Mukur Gupta et.al.|[2506.06273](http://arxiv.org/abs/2506.06273)|null|
 |**2025-06-06**|**BecomingLit: Relightable Gaussian Avatars with Hybrid Neural Shading**|Jonathan Schmidt et.al.|[2506.06271](http://arxiv.org/abs/2506.06271)|null|
-|**2025-06-05**|**Contrastive Flow Matching**|George Stoica et.al.|[2506.05350](http://arxiv.org/abs/2506.05350)|null|
+|**2025-06-05**|**Contrastive Flow Matching**|George Stoica et.al.|[2506.05350](http://arxiv.org/abs/2506.05350)|**[link](https://github.com/gstoica27/deltafm)**|
 |**2025-06-05**|**VideoMathQA: Benchmarking Mathematical Reasoning via Multimodal Understanding in Videos**|Hanoona Rasheed et.al.|[2506.05349](http://arxiv.org/abs/2506.05349)|null|
 |**2025-06-05**|**FreeTimeGS: Free Gaussians at Anytime and Anywhere for Dynamic Scene Reconstruction**|Yifan Wang et.al.|[2506.05348](http://arxiv.org/abs/2506.05348)|null|
 |**2025-06-05**|**Neural Inverse Rendering from Propagating Light**|Anagh Malik et.al.|[2506.05347](http://arxiv.org/abs/2506.05347)|null|
 |**2025-06-05**|**Why LLM Safety Guardrails Collapse After Fine-tuning: A Similarity Analysis Between Alignment and Fine-tuning Datasets**|Lei Hsiung et.al.|[2506.05346](http://arxiv.org/abs/2506.05346)|null|
 |**2025-06-05**|**Inference-Time Hyper-Scaling with KV Cache Compression**|Adrian Łańcucki et.al.|[2506.05345](http://arxiv.org/abs/2506.05345)|null|
-|**2025-06-05**|**SparseMM: Head Sparsity Emerges from Visual Concept Responses in MLLMs**|Jiahui Wang et.al.|[2506.05344](http://arxiv.org/abs/2506.05344)|null|
+|**2025-06-05**|**SparseMM: Head Sparsity Emerges from Visual Concept Responses in MLLMs**|Jiahui Wang et.al.|[2506.05344](http://arxiv.org/abs/2506.05344)|**[link](https://github.com/cr400af-a/sparsemm)**|
 |**2025-06-05**|**ContentV: Efficient Training of Video Generation Models with Limited Compute**|Wenfeng Lin et.al.|[2506.05343](http://arxiv.org/abs/2506.05343)|null|
 |**2025-06-05**|**Refer to Anything with Vision-Language Prompts**|Shengcao Cao et.al.|[2506.05342](http://arxiv.org/abs/2506.05342)|null|
 |**2025-06-05**|**Direct Numerical Layout Generation for 3D Indoor Scene Synthesis via Spatial Reasoning**|Xingjian Ran et.al.|[2506.05341](http://arxiv.org/abs/2506.05341)|null|
@@ -725,8 +725,8 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-16**|**Digital Transformation of Urban Planning in Australia: Influencing Factors and Key Challenges**|Soheil Sabri et.al.|[2506.13333](http://arxiv.org/abs/2506.13333)|null|
-|**2025-06-14**|**Efficient vectorized evaluation of Gaussian AO integrals on modern central processing units**|Andrey Asadchev et.al.|[2506.12501](http://arxiv.org/abs/2506.12501)|null|
-|**2025-06-12**|**A4: Microarchitecture-Aware LLC Management for Datacenter Servers with Emerging I/O Devices**|Haneul Park et.al.|[2506.11329](http://arxiv.org/abs/2506.11329)|null|
+|**2025-06-14**|**Efficient vectorized evaluation of Gaussian AO integrals on modern central processing units**|Andrey Asadchev et.al.|[2506.12501](http://arxiv.org/abs/2506.12501)|**[link](https://github.com/valeevgroup/libintx)**|
+|**2025-06-12**|**A4: Microarchitecture-Aware LLC Management for Datacenter Servers with Emerging I/O Devices**|Haneul Park et.al.|[2506.11329](http://arxiv.org/abs/2506.11329)|**[link](https://github.com/ece-fast-lab/isca-2025-a4)**|
 |**2025-06-11**|**TTT-Bench: A Benchmark for Evaluating Reasoning Ability with Simple and Novel Tic-Tac-Toe-style Games**|Prakamya Mishra et.al.|[2506.10209](http://arxiv.org/abs/2506.10209)|null|
 |**2025-06-10**|**Low-Level and NUMA-Aware Optimization for High-Performance Quantum Simulation**|Ali Rezaei et.al.|[2506.09198](http://arxiv.org/abs/2506.09198)|null|
 |**2025-06-09**|**Congestion-Aware Path Selection for Load Balancing in AI Clusters**|Erfan Nosrati et.al.|[2506.08132](http://arxiv.org/abs/2506.08132)|null|
