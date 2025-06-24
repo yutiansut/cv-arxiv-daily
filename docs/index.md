@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2025.06.23
+## Updated on 2025.06.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## quant
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-20**|**VLN-R1: Vision-Language Navigation via Reinforcement Fine-Tuning**|Zhangyang Qi et.al.|[2506.17221](http://arxiv.org/abs/2506.17221)|null|
+|**2025-06-20**|**Emergent Temporal Correspondences from Video Diffusion Transformers**|Jisu Nam et.al.|[2506.17220](http://arxiv.org/abs/2506.17220)|**[link](https://github.com/cvlab-kaist/DiffTrack)**|
+|**2025-06-20**|**No Free Lunch: Rethinking Internal Feedback for LLM Reasoning**|Yanzhi Zhang et.al.|[2506.17219](http://arxiv.org/abs/2506.17219)|null|
+|**2025-06-20**|**Machine Mental Imagery: Empower Multimodal Reasoning with Latent Visual Tokens**|Zeyuan Yang et.al.|[2506.17218](http://arxiv.org/abs/2506.17218)|null|
+|**2025-06-20**|**Bias hardened estimators of patchy screening profiles**|Noah Sailer et.al.|[2506.17217](http://arxiv.org/abs/2506.17217)|null|
+|**2025-06-20**|**Hierarchical constraints on gravitational waves from horizonless compact objects**|Rajrupa Mondal et.al.|[2506.17215](http://arxiv.org/abs/2506.17215)|null|
+|**2025-06-20**|**Regularized Targeted Maximum Likelihood Estimation in Highly Adaptive Lasso Implied Working Models**|Yi Li et.al.|[2506.17214](http://arxiv.org/abs/2506.17214)|null|
+|**2025-06-20**|**Long-term Traffic Simulation with Interleaved Autoregressive Motion and Scenario Generation**|Xiuyu Yang et.al.|[2506.17213](http://arxiv.org/abs/2506.17213)|null|
+|**2025-06-20**|**Part $^{2}$ GS: Part-aware Modeling of Articulated Objects using 3D Gaussian Splatting**|Tianjiao Yu et.al.|[2506.17212](http://arxiv.org/abs/2506.17212)|null|
+|**2025-06-20**|**BREAD: Branched Rollouts from Expert Anchors Bridge SFT & RL for Reasoning**|Xuechen Zhang et.al.|[2506.17211](http://arxiv.org/abs/2506.17211)|null|
 |**2025-06-18**|**Nabla-R2D3: Effective and Efficient 3D Diffusion Alignment with 2D Rewards**|Qingming Liu et.al.|[2506.15684](http://arxiv.org/abs/2506.15684)|null|
 |**2025-06-18**|**PhantomHunter: Detecting Unseen Privately-Tuned LLM-Generated Text via Family-Aware Learning**|Yuhui Shi et.al.|[2506.15683](http://arxiv.org/abs/2506.15683)|null|
 |**2025-06-18**|**Evolutionary Caching to Accelerate Your Off-the-Shelf Diffusion Model**|Anirud Aggarwal et.al.|[2506.15682](http://arxiv.org/abs/2506.15682)|**[link](https://github.com/aniaggarwal/ecad)**|
@@ -734,6 +744,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-20**|**ROS 2 Agnocast: Supporting Unsized Message Types for True Zero-Copy Publish/Subscribe IPC**|Takahiro Ishikawa-Aso et.al.|[2506.16882](http://arxiv.org/abs/2506.16882)|null|
+|**2025-06-20**|**Robust Group Anomaly Detection for Quasi-Periodic Network Time Series**|Kai Yang et.al.|[2506.16815](http://arxiv.org/abs/2506.16815)|null|
+|**2025-06-19**|**SparseDPD: A Sparse Neural Network-based Digital Predistortion FPGA Accelerator for RF Power Amplifier Linearization**|Manno Versluis et.al.|[2506.16591](http://arxiv.org/abs/2506.16591)|null|
 |**2025-06-16**|**Digital Transformation of Urban Planning in Australia: Influencing Factors and Key Challenges**|Soheil Sabri et.al.|[2506.13333](http://arxiv.org/abs/2506.13333)|null|
 |**2025-06-14**|**Efficient vectorized evaluation of Gaussian AO integrals on modern central processing units**|Andrey Asadchev et.al.|[2506.12501](http://arxiv.org/abs/2506.12501)|**[link](https://github.com/valeevgroup/libintx)**|
 |**2025-06-12**|**A4: Microarchitecture-Aware LLC Management for Datacenter Servers with Emerging I/O Devices**|Haneul Park et.al.|[2506.11329](http://arxiv.org/abs/2506.11329)|**[link](https://github.com/ece-fast-lab/isca-2025-a4)**|
