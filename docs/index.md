@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2025.06.30
+## Updated on 2025.07.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## quant
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-27**|**Is Lindblad for me?**|Martino Stefanini et.al.|[2506.22436](http://arxiv.org/abs/2506.22436)|null|
+|**2025-06-27**|**Correlation Enhanced Electron-Phonon Coupling in FeSe/SrTiO $_3$ at a Magic Angle**|Qiang Zou et.al.|[2506.22435](http://arxiv.org/abs/2506.22435)|null|
+|**2025-06-27**|**MiCo: Multi-image Contrast for Reinforcement Visual Reasoning**|Xi Chen et.al.|[2506.22434](http://arxiv.org/abs/2506.22434)|null|
+|**2025-06-27**|**WarpRF: Multi-View Consistency for Training-Free Uncertainty Quantification and Applications in Radiance Fields**|Sadra Safadoust et.al.|[2506.22433](http://arxiv.org/abs/2506.22433)|null|
+|**2025-06-27**|**Shape-for-Motion: Precise and Consistent Video Editing with 3D Proxy**|Yuhao Liu et.al.|[2506.22432](http://arxiv.org/abs/2506.22432)|null|
+|**2025-06-27**|**Gravitational redshift from large-scale structure: nonlinearities, anti-symmetries, and the dipole**|Lawrence Dam et.al.|[2506.22431](http://arxiv.org/abs/2506.22431)|null|
+|**2025-06-27**|**General many-body entanglement swapping protocol**|Santeri Huhtanen et.al.|[2506.22430](http://arxiv.org/abs/2506.22430)|null|
+|**2025-06-27**|**Beyond ReLU: How Activations Affect Neural Kernels and Random Wide Networks**|David Holzmüller et.al.|[2506.22429](http://arxiv.org/abs/2506.22429)|null|
+|**2025-06-27**|**Augmented Lagrangian methods for infeasible convex optimization problems and diverging proximal-point algorithms**|Roland Andrews et.al.|[2506.22428](http://arxiv.org/abs/2506.22428)|null|
+|**2025-06-27**|**CLoVE: Personalized Federated Learning through Clustering of Loss Vector Embeddings**|Randeep Bhatia et.al.|[2506.22427](http://arxiv.org/abs/2506.22427)|null|
 |**2025-06-26**|**Whole-Body Conditioned Egocentric Video Prediction**|Yutong Bai et.al.|[2506.21552](http://arxiv.org/abs/2506.21552)|null|
 |**2025-06-26**|**Where to find Grokking in LLM Pretraining? Monitor Memorization-to-Generalization without Test**|Ziyue Li et.al.|[2506.21551](http://arxiv.org/abs/2506.21551)|null|
 |**2025-06-26**|**mTSBench: Benchmarking Multivariate Time Series Anomaly Detection and Model Selection at Scale**|Xiaona Zhou et.al.|[2506.21550](http://arxiv.org/abs/2506.21550)|null|
@@ -784,6 +794,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-27**|**Dynamics and pattern formation in a diffusive Beddington-DeAngelis predator-prey model with fear effect**|Aung Zaw Myint et.al.|[2506.22070](http://arxiv.org/abs/2506.22070)|null|
 |**2025-06-26**|**Flowcut Switching: High-Performance Adaptive Routing with In-Order Delivery Guarantees**|Tommaso Bonato et.al.|[2506.21406](http://arxiv.org/abs/2506.21406)|null|
 |**2025-06-25**|**FINN-GL: Generalized Mixed-Precision Extensions for FPGA-Accelerated LSTMs**|Shashwat Khandelwal et.al.|[2506.20810](http://arxiv.org/abs/2506.20810)|null|
 |**2025-06-24**|**Dynamics of Cu $_2$ O Rydberg excitons -- real density matrix approach**|Karol Karpinski et.al.|[2506.19336](http://arxiv.org/abs/2506.19336)|null|
