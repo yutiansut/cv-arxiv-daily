@@ -1,4 +1,4 @@
-## Updated on 2025.07.03
+## Updated on 2025.07.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-02**|**Sub-keV dark matter can strongly ionize molecular clouds**|Pedro De la Torre Luque et.al.|[2507.01962](http://arxiv.org/abs/2507.01962)|null|
+|**2025-07-02**|**AC-DiT: Adaptive Coordination Diffusion Transformer for Mobile Manipulation**|Sixiang Chen et.al.|[2507.01961](http://arxiv.org/abs/2507.01961)|null|
+|**2025-07-02**|**Resolving Individual Stars in Nearby Large Galaxies with the Habitable Worlds Observatory**|Adam Smercina et.al.|[2507.01960](http://arxiv.org/abs/2507.01960)|null|
+|**2025-07-02**|**Parallel-in-Time Preconditioning for Time-Dependent Variational Mean Field Games**|Heidi Wolles Ljósheim et.al.|[2507.01958](http://arxiv.org/abs/2507.01958)|null|
+|**2025-07-02**|**Locality-aware Parallel Decoding for Efficient Autoregressive Image Generation**|Zhuoyang Zhang et.al.|[2507.01957](http://arxiv.org/abs/2507.01957)|null|
+|**2025-07-02**|**Universal lower bound on the axion decay constant from free streaming effects**|Keisuke Harigaya et.al.|[2507.01956](http://arxiv.org/abs/2507.01956)|null|
+|**2025-07-02**|**How Well Does GPT-4o Understand Vision? Evaluating Multimodal Foundation Models on Standard Computer Vision Tasks**|Rahul Ramachandran et.al.|[2507.01955](http://arxiv.org/abs/2507.01955)|null|
+|**2025-07-02**|**Dirty Black Holes, Clean Signals: Near-Horizon vs. Environmental Effects on Grey-Body Factors and Hawking Radiation**|Roman A. Konoplya et.al.|[2507.01954](http://arxiv.org/abs/2507.01954)|null|
+|**2025-07-02**|**FreeMorph: Tuning-Free Generalized Image Morphing with Diffusion Model**|Yukang Cao et.al.|[2507.01953](http://arxiv.org/abs/2507.01953)|null|
+|**2025-07-02**|**The Lockman-SpReSO project. Spectroscopic analysis of Type 1 AGN**|Castalia Alenka Negrete et.al.|[2507.01952](http://arxiv.org/abs/2507.01952)|null|
 |**2025-06-30**|**Studying Protoplanets and Protoplanetary Disks with the Habitable Worlds Observatory**|Bin B. Ren et.al.|[2506.24129](http://arxiv.org/abs/2506.24129)|null|
 |**2025-06-30**|**Beneath the Surface: >85% of z>5.9 QSOs in Massive Host Galaxies are UV-Faint**|R. J. Bouwens et.al.|[2506.24128](http://arxiv.org/abs/2506.24128)|null|
 |**2025-06-30**|**How to Design and Train Your Implicit Neural Representation for Video Compression**|Matthew Gwilliam et.al.|[2506.24127](http://arxiv.org/abs/2506.24127)|null|
@@ -804,12 +814,15 @@
 |**2025-03-06**|**Floxels: Fast Unsupervised Voxel Based Scene Flow Estimation**|David T. Hoffmann et.al.|[2503.04718](http://arxiv.org/abs/2503.04718)|null|
 |**2025-03-06**|**MIGHTEE: exploring the relationship between spectral index, redshift and radio luminosity**|Siddhant Pinjarkar et.al.|[2503.04717](http://arxiv.org/abs/2503.04717)|null|
 
-<p align=right>(<a href=#updated-on-20250703>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250704>back to top</a>)</p>
 
 ## 低延迟交易
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-02**|**ASTARS empowered Satellite Positioning Approach for Urban Canyons and Indoor Environments**|Yu Zhang et.al.|[2507.01783](http://arxiv.org/abs/2507.01783)|null|
+|**2025-07-01**|**Cyber Attacks Detection, Prevention, and Source Localization in Digital Substation Communication using Hybrid Statistical-Deep Learning**|Nicola Cibin et.al.|[2507.00522](http://arxiv.org/abs/2507.00522)|null|
+|**2025-07-01**|**Real-Time In-Network Machine Learning on P4-Programmable FPGA SmartNICs with Fixed-Point Arithmetic and Taylor**|Mohammad Firas Sada et.al.|[2507.00428](http://arxiv.org/abs/2507.00428)|null|
 |**2025-06-30**|**MotionGPT3: Human Motion as a Second Modality**|Bingfan Zhu et.al.|[2506.24086](http://arxiv.org/abs/2506.24086)|null|
 |**2025-06-30**|**The Kubernetes Network Driver Model: A Composable Architecture for High-Performance Networking**|Antonio Ojea et.al.|[2506.23628](http://arxiv.org/abs/2506.23628)|null|
 |**2025-06-28**|**SparStencil: Retargeting Sparse Tensor Cores to Scientific Stencil Computations via Structured Sparsity Transformation**|Qi Li et.al.|[2506.22969](http://arxiv.org/abs/2506.22969)|null|
@@ -928,7 +941,7 @@
 |**2025-02-27**|**Wildcat: Educational RISC-V Microprocessors**|Martin Schoeberl et.al.|[2502.20197](http://arxiv.org/abs/2502.20197)|**[link](https://github.com/schoeberl/wildcat)**|
 |**2025-02-27**|**FPGA-Accelerated SpeckleNN with SNL for Real-time X-ray Single-Particle Imaging**|Abhilasha Dave et.al.|[2502.19734](http://arxiv.org/abs/2502.19734)|null|
 
-<p align=right>(<a href=#updated-on-20250703>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250704>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
