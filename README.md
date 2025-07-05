@@ -1,4 +1,4 @@
-## Updated on 2025.07.04
+## Updated on 2025.07.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-03**|**MultiGen: Using Multimodal Generation in Simulation to Learn Multimodal Policies in Real**|Renhao Wang et.al.|[2507.02864](http://arxiv.org/abs/2507.02864)|null|
+|**2025-07-03**|**Point3R: Streaming 3D Reconstruction with Explicit Spatial Pointer Memory**|Yuqi Wu et.al.|[2507.02863](http://arxiv.org/abs/2507.02863)|null|
+|**2025-07-03**|**RefTok: Reference-Based Tokenization for Video Generation**|Xiang Fan et.al.|[2507.02862](http://arxiv.org/abs/2507.02862)|null|
+|**2025-07-03**|**LiteReality: Graphics-Ready 3D Scene Reconstruction from RGB-D Scans**|Zhening Huang et.al.|[2507.02861](http://arxiv.org/abs/2507.02861)|null|
+|**2025-07-03**|**Less is Enough: Training-Free Video Diffusion Acceleration via Runtime-Adaptive Caching**|Xin Zhou et.al.|[2507.02860](http://arxiv.org/abs/2507.02860)|null|
+|**2025-07-03**|**Bootstrapping Grounded Chain-of-Thought in Multimodal LLMs for Data-Efficient Model Adaptation**|Jiaer Xia et.al.|[2507.02859](http://arxiv.org/abs/2507.02859)|null|
+|**2025-07-03**|**Requirements Elicitation Follow-Up Question Generation**|Yuchen Shen et.al.|[2507.02858](http://arxiv.org/abs/2507.02858)|null|
+|**2025-07-03**|**AnyI2V: Animating Any Conditional Image with Motion Control**|Ziye Li et.al.|[2507.02857](http://arxiv.org/abs/2507.02857)|null|
+|**2025-07-03**|**Answer Matching Outperforms Multiple Choice for Language Model Evaluation**|Nikhil Chandak et.al.|[2507.02856](http://arxiv.org/abs/2507.02856)|null|
+|**2025-07-03**|**Diffeomorphic approximation of piecewise affine homeomorphisms**|Daniel Campbell et.al.|[2507.02854](http://arxiv.org/abs/2507.02854)|null|
 |**2025-07-02**|**Sub-keV dark matter can strongly ionize molecular clouds**|Pedro De la Torre Luque et.al.|[2507.01962](http://arxiv.org/abs/2507.01962)|null|
 |**2025-07-02**|**AC-DiT: Adaptive Coordination Diffusion Transformer for Mobile Manipulation**|Sixiang Chen et.al.|[2507.01961](http://arxiv.org/abs/2507.01961)|null|
 |**2025-07-02**|**Resolving Individual Stars in Nearby Large Galaxies with the Habitable Worlds Observatory**|Adam Smercina et.al.|[2507.01960](http://arxiv.org/abs/2507.01960)|null|
@@ -814,12 +824,15 @@
 |**2025-03-06**|**Floxels: Fast Unsupervised Voxel Based Scene Flow Estimation**|David T. Hoffmann et.al.|[2503.04718](http://arxiv.org/abs/2503.04718)|null|
 |**2025-03-06**|**MIGHTEE: exploring the relationship between spectral index, redshift and radio luminosity**|Siddhant Pinjarkar et.al.|[2503.04717](http://arxiv.org/abs/2503.04717)|null|
 
-<p align=right>(<a href=#updated-on-20250704>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250705>back to top</a>)</p>
 
 ## 低延迟交易
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-03**|**MULTI-SCOUT: Multistatic Integrated Sensing and Communications in 5G and Beyond for Moving Target Detection, Positioning, and Tracking**|Yalin E. Sagduyu et.al.|[2507.02613](http://arxiv.org/abs/2507.02613)|null|
+|**2025-07-03**|**TABNet: A Triplet Augmentation Self-Recovery Framework with Boundary-Aware Pseudo-Labels for Medical Image Segmentation**|Peilin Zhang et.al.|[2507.02399](http://arxiv.org/abs/2507.02399)|null|
+|**2025-07-02**|**SAKURAONE: Empowering Transparent and Open AI Platforms through Private-Sector HPC Investment in Japan**|Fumikazu Konishi et.al.|[2507.02124](http://arxiv.org/abs/2507.02124)|null|
 |**2025-07-02**|**ASTARS empowered Satellite Positioning Approach for Urban Canyons and Indoor Environments**|Yu Zhang et.al.|[2507.01783](http://arxiv.org/abs/2507.01783)|null|
 |**2025-07-01**|**Cyber Attacks Detection, Prevention, and Source Localization in Digital Substation Communication using Hybrid Statistical-Deep Learning**|Nicola Cibin et.al.|[2507.00522](http://arxiv.org/abs/2507.00522)|null|
 |**2025-07-01**|**Real-Time In-Network Machine Learning on P4-Programmable FPGA SmartNICs with Fixed-Point Arithmetic and Taylor**|Mohammad Firas Sada et.al.|[2507.00428](http://arxiv.org/abs/2507.00428)|null|
@@ -941,7 +954,7 @@
 |**2025-02-27**|**Wildcat: Educational RISC-V Microprocessors**|Martin Schoeberl et.al.|[2502.20197](http://arxiv.org/abs/2502.20197)|**[link](https://github.com/schoeberl/wildcat)**|
 |**2025-02-27**|**FPGA-Accelerated SpeckleNN with SNL for Real-time X-ray Single-Particle Imaging**|Abhilasha Dave et.al.|[2502.19734](http://arxiv.org/abs/2502.19734)|null|
 
-<p align=right>(<a href=#updated-on-20250704>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250705>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
