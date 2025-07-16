@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2025.07.15
+## Updated on 2025.07.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## quant
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**Self-supervised Learning on Camera Trap Footage Yields a Strong Universal Face Embedder**|Vladimir Iashin et.al.|[2507.10552](http://arxiv.org/abs/2507.10552)|null|
+|**2025-07-14**|**Angular-momentum pairs in spherical systems: applications to the Galactic centre**|Taras Panamarev et.al.|[2507.10551](http://arxiv.org/abs/2507.10551)|null|
+|**2025-07-14**|**The Value Problem for Weighted Timed Games with Two Clocks is Undecidable**|Quentin Guilmant et.al.|[2507.10550](http://arxiv.org/abs/2507.10550)|null|
+|**2025-07-14**|**Investigating Galactic Fountains in M101: Insights from Ionized, UV emissions and Neutral Gas**|Aashiya Anitha Shaji et.al.|[2507.10549](http://arxiv.org/abs/2507.10549)|null|
+|**2025-07-14**|**EmbRACE-3K: Embodied Reasoning and Action in Complex Environments**|Mingxian Lin et.al.|[2507.10548](http://arxiv.org/abs/2507.10548)|null|
+|**2025-07-14**|**Quantize-then-Rectify: Efficient VQ-VAE Training**|Borui Zhang et.al.|[2507.10547](http://arxiv.org/abs/2507.10547)|null|
+|**2025-07-14**|**Disentangling Neural Disjunctive Normal Form Models**|Kexin Gu Baugh et.al.|[2507.10546](http://arxiv.org/abs/2507.10546)|null|
+|**2025-07-14**|**KPZ equation from a class of nonlinear SPDEs in infinite volume**|Kevin Yang et.al.|[2507.10545](http://arxiv.org/abs/2507.10545)|null|
+|**2025-07-14**|**Observational biases on rotation curves from IFU data at cosmic noon**|Amanda E. de Araujo-Carvalho et.al.|[2507.10544](http://arxiv.org/abs/2507.10544)|null|
+|**2025-07-14**|**MP1: Mean Flow Tames Policy Learning in 1-step for Robotic Manipulation**|Juyi Sheng et.al.|[2507.10543](http://arxiv.org/abs/2507.10543)|null|
 |**2025-07-11**|**The Non-Linear Representation Dilemma: Is Causal Abstraction Enough for Mechanistic Interpretability?**|Denis Sutter et.al.|[2507.08802](http://arxiv.org/abs/2507.08802)|null|
 |**2025-07-11**|**Lumos-1: On Autoregressive Video Generation from a Unified Model Perspective**|Hangjie Yuan et.al.|[2507.08801](http://arxiv.org/abs/2507.08801)|null|
 |**2025-07-11**|**NeuralOS: Towards Simulating Operating Systems via Neural Generative Models**|Luke Rivard et.al.|[2507.08800](http://arxiv.org/abs/2507.08800)|null|
@@ -874,6 +884,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**Fine-Grained Coordinated OFDMA With Fiber Backhaul Enabled by openwifi and White Rabbit**|Thijs Havinga et.al.|[2507.10210](http://arxiv.org/abs/2507.10210)|null|
+|**2025-07-12**|**OpenCAMS: An Open-Source Connected and Automated Mobility Co-Simulation Platform for Advanced Transportation Research**|Minhaj Uddin Ahmad et.al.|[2507.09186](http://arxiv.org/abs/2507.09186)|null|
 |**2025-07-10**|**Computation-resource-efficient Task-oriented Communications**|Jingwen Fu et.al.|[2507.07422](http://arxiv.org/abs/2507.07422)|null|
 |**2025-07-09**|**Towards Efficient and Scalable Distributed Vector Search with RDMA**|Xiangyu Zhi et.al.|[2507.06653](http://arxiv.org/abs/2507.06653)|null|
 |**2025-07-09**|**Vectorised Hashing Based on Bernstein-Rabin-Winograd Polynomials over Prime Order Fields**|Kaushik Nath et.al.|[2507.06490](http://arxiv.org/abs/2507.06490)|null|
