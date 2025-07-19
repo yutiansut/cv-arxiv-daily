@@ -1,4 +1,4 @@
-## Updated on 2025.07.18
+## Updated on 2025.07.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-17**|**VideoITG: Multimodal Video Understanding with Instructed Temporal Grounding**|Shihao Wang et.al.|[2507.13353](http://arxiv.org/abs/2507.13353)|null|
+|**2025-07-17**|**Effective field theory for superfluid vortex lattice from coset construction**|Aleksander Głódkowski et.al.|[2507.13352](http://arxiv.org/abs/2507.13352)|null|
+|**2025-07-17**|**Challenges for describing unitary evolution in nontrivial geometries: pictures and representations**|Steven B. Giddings et.al.|[2507.13351](http://arxiv.org/abs/2507.13351)|null|
+|**2025-07-17**|**Hierarchical Rectified Flow Matching with Mini-Batch Couplings**|Yichi Zhang et.al.|[2507.13350](http://arxiv.org/abs/2507.13350)|null|
+|**2025-07-17**|**The Star Formation History and Evolution of the Ultra-Diffuse M81 Satellite, F8D1**|Adam Smercina et.al.|[2507.13349](http://arxiv.org/abs/2507.13349)|null|
+|**2025-07-17**|**VisionThink: Smart and Efficient Vision Language Model via Reinforcement Learning**|Senqiao Yang et.al.|[2507.13348](http://arxiv.org/abs/2507.13348)|null|
+|**2025-07-17**|**$π^3$ : Scalable Permutation-Equivariant Visual Geometry Learning**|Yifan Wang et.al.|[2507.13347](http://arxiv.org/abs/2507.13347)|null|
+|**2025-07-17**|**AutoPartGen: Autogressive 3D Part Generation and Discovery**|Minghao Chen et.al.|[2507.13346](http://arxiv.org/abs/2507.13346)|null|
+|**2025-07-17**|**Imbalance in Balance: Online Concept Balancing in Generation Models**|Yukai Shi et.al.|[2507.13345](http://arxiv.org/abs/2507.13345)|null|
+|**2025-07-17**|**Diffuman4D: 4D Consistent Human View Synthesis from Sparse-View Videos with Spatio-Temporal Diffusion Models**|Yudong Jin et.al.|[2507.13344](http://arxiv.org/abs/2507.13344)|null|
 |**2025-07-16**|**The AdS/ $\mathsf{C}$-$\mathsf{P}$-${\mathsf T}$ Correspondence**|Jaume Gomis et.al.|[2507.12467](http://arxiv.org/abs/2507.12467)|null|
 |**2025-07-16**|**Language Models Improve When Pretraining Data Matches Target Tasks**|David Mizrahi et.al.|[2507.12466](http://arxiv.org/abs/2507.12466)|null|
 |**2025-07-17**|**PhysX: Physical-Grounded 3D Asset Generation**|Ziang Cao et.al.|[2507.12465](http://arxiv.org/abs/2507.12465)|null|
@@ -904,12 +914,13 @@
 |**2025-03-06**|**Floxels: Fast Unsupervised Voxel Based Scene Flow Estimation**|David T. Hoffmann et.al.|[2503.04718](http://arxiv.org/abs/2503.04718)|null|
 |**2025-03-06**|**MIGHTEE: exploring the relationship between spectral index, redshift and radio luminosity**|Siddhant Pinjarkar et.al.|[2503.04717](http://arxiv.org/abs/2503.04717)|null|
 
-<p align=right>(<a href=#updated-on-20250718>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250719>back to top</a>)</p>
 
 ## 低延迟交易
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-17**|**Building State Machine Replication Using Practical Network Synchrony**|Yiliang Wan et.al.|[2507.12792](http://arxiv.org/abs/2507.12792)|null|
 |**2025-07-15**|**Resilient Time-Sensitive Networking for Industrial IoT: Configuration and Fault-Tolerance Evaluation**|Mohamed Seliem et.al.|[2507.11250](http://arxiv.org/abs/2507.11250)|null|
 |**2025-07-04**|**SFATTI: Spiking FPGA Accelerator for Temporal Task-driven Inference -- A Case Study on MNIST**|Alessio Caviglia et.al.|[2507.10561](http://arxiv.org/abs/2507.10561)|null|
 |**2025-07-14**|**Fine-Grained Coordinated OFDMA With Fiber Backhaul Enabled by openwifi and White Rabbit**|Thijs Havinga et.al.|[2507.10210](http://arxiv.org/abs/2507.10210)|null|
@@ -1045,7 +1056,7 @@
 |**2025-02-27**|**Wildcat: Educational RISC-V Microprocessors**|Martin Schoeberl et.al.|[2502.20197](http://arxiv.org/abs/2502.20197)|**[link](https://github.com/schoeberl/wildcat)**|
 |**2025-02-27**|**FPGA-Accelerated SpeckleNN with SNL for Real-time X-ray Single-Particle Imaging**|Abhilasha Dave et.al.|[2502.19734](http://arxiv.org/abs/2502.19734)|null|
 
-<p align=right>(<a href=#updated-on-20250718>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250719>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
