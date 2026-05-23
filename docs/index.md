@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.05.22
+## Updated on 2026.05.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## quant
